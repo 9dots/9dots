@@ -1,0 +1,4 @@
+[12-Jun-2013 19:06:00 UTC] PHP Fatal error:  Call to undefined function bravo_print_typography() in /home/paulus23/public_html/prothemeus.com/demo/wp-content/themes/bravo/css/bravo-styles.php on line 5
+[03-Jul-2013 12:53:07 UTC] PHP Fatal error:  Call to undefined function bravo_print_typography() in /home/paulus23/public_html/prothemeus.com/demo/wp-content/themes/bravo/css/bravo-styles.php on line 5
+[03-Jul-2013 12:53:08 UTC] PHP Fatal error:  Call to undefined function bravo_print_typography() in /home/paulus23/public_html/prothemeus.com/demo/wp-content/themes/bravo/css/bravo-styles.php on line 5
+[23-Jul-2013 01:42:58 UTC] PHP Fatal error:  Call to undefined function bravo_print_typography() in /home/paulus23/public_html/prothemeus.com/demo/wp-content/themes/bravo/css/bravo-styles.php on line 5

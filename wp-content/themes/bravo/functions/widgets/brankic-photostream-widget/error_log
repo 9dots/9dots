@@ -1,0 +1,2 @@
+[03-Jul-2013 12:53:20 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/paulus23/public_html/prothemeus.com/demo/wp-content/themes/bravo/functions/widgets/brankic-photostream-widget/bra_photostream_widget.php on line 11
+[03-Jul-2013 12:53:21 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/paulus23/public_html/prothemeus.com/demo/wp-content/themes/bravo/functions/widgets/brankic-photostream-widget/bra_photostream_widget.php on line 11

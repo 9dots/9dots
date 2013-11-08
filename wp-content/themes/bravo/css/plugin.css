@@ -1,0 +1,404 @@
+/* Start: Recommended Isotope styles */
+
+/**** Isotope Filtering ****/
+
+.isotope-item {
+  z-index: 2;
+}
+
+.isotope-hidden.isotope-item {
+  pointer-events: none;
+  z-index: 1;
+}
+
+/**** Isotope CSS3 transitions ****/
+
+.isotope,
+.isotope .isotope-item {
+  -webkit-transition-duration: 0.8s;
+     -moz-transition-duration: 0.8s;
+      -ms-transition-duration: 0.8s;
+       -o-transition-duration: 0.8s;
+          transition-duration: 0.8s;
+}
+
+.isotope {
+  -webkit-transition-property: height, width;
+     -moz-transition-property: height, width;
+      -ms-transition-property: height, width;
+       -o-transition-property: height, width;
+          transition-property: height, width;
+}
+
+.isotope .isotope-item {
+  -webkit-transition-property: -webkit-transform, opacity;
+     -moz-transition-property:    -moz-transform, opacity;
+      -ms-transition-property:     -ms-transform, opacity;
+       -o-transition-property:      -o-transform, opacity;
+          transition-property:         transform, opacity;
+}
+
+/**** disabling Isotope CSS3 transitions ****/
+
+.isotope.no-transition,
+.isotope.no-transition .isotope-item,
+.isotope .isotope-item.no-transition {
+  -webkit-transition-duration: 0s;
+     -moz-transition-duration: 0s;
+      -ms-transition-duration: 0s;
+       -o-transition-duration: 0s;
+          transition-duration: 0s;
+}
+
+/* End: Recommended Isotope styles */
+
+
+
+/* disable CSS transitions for containers with infinite scrolling*/
+.isotope.infinite-scrolling {
+  -webkit-transition: none;
+     -moz-transition: none;
+      -ms-transition: none;
+       -o-transition: none;
+          transition: none;
+}
+
+/*
+ * jQuery FlexSlider v2.0
+ * http://www.woothemes.com/flexslider/
+ *
+ * Copyright 2012 WooThemes
+ * Free to use under the GPLv2 license.
+ * http://www.gnu.org/licenses/gpl-2.0.html
+ *
+ * Contributing author: Tyler Smith (@mbmufffin)
+ */
+
+ 
+/* Browser Resets */
+.flex-container a:active,
+.flexslider a:active,
+.flex-container a:focus,
+.flexslider a:focus  {outline: none;}
+.slides,
+.flex-control-nav,
+.flex-direction-nav {margin: 0; padding: 0; list-style: none;} 
+
+/* FlexSlider Necessary Styles
+*********************************/ 
+.flexslider {margin: 0; padding: 0;}
+.flexslider .slides > li {display: none; -webkit-backface-visibility: hidden;} /* Hide the slides before the JS is loaded. Avoids image jumping */
+.flexslider .slides img {width: 100%; display: block;}
+.flex-pauseplay span {text-transform: capitalize;}
+
+/* Clearfix for the .slides element */
+.slides:after {content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;} 
+html[xmlns] .slides {display: block;} 
+* html .slides {height: 1%;}
+
+/* No JavaScript Fallback */
+/* If you are not using another script, such as Modernizr, make sure you
+ * include js that eliminates this class on page load */
+.no-js .slides > li:first-child {display: block;}
+
+
+/* FlexSlider Default Theme
+*********************************/
+.flexslider { position: relative;  zoom: 1;}
+.flex-viewport {max-height: 2000px;}
+.loading .flex-viewport {max-height: 300px;}
+.flexslider .slides { zoom: 1; }
+.carousel li {margin-right: 5px}
+
+/* Direction Nav */
+.flex-direction-nav a { 
+	display: block; 
+	position: absolute; 
+	top: 50%; 
+	cursor: pointer;
+	width: auto !important; 
+	font-size: 80px; 
+	line-height: 70px;
+	margin-top: -35px;
+	-webkit-transition: all .6s ease; 
+	-moz-transition: all .6s ease; 
+	-o-transition: all .6s ease; 
+	transition: all .6s ease;
+}
+.flex-direction-nav {
+	display: none;
+}
+.flex-direction-nav.flex-direction-nav-container {
+	display: block;
+}
+.flex-direction-nav .flex-next { right: 0px; color: #fff; z-index: 100; }
+.flex-direction-nav .flex-prev {	left: 0px; color: #fff; z-index: 100; }
+.flex-direction-nav .disabled {opacity: .3!important; filter:alpha(opacity=30); cursor: default;}
+.flex_loading{ min-height: 300px; }
+/* Control Nav */
+.flex-control-nav {width: 100%; position: absolute; bottom: 10px; text-align: center;}
+.flex-control-nav li {margin: 0 6px; display: inline-block; zoom: 1; *display: inline;}
+.flex-control-paging li a {width: 11px; height: 11px; display: block; background: #fff; rgb(255, 255, 255); cursor: pointer; text-indent: -9999px; -webkit-border-radius: 20px; -moz-border-radius: 20px; -o-border-radius: 20px; border-radius: 20px; box-shadow: inset 0 0 3px rgba(0,0,0,0.3);}
+
+.flex-control-thumbs {margin: 5px 0 0; position: static; overflow: hidden;}
+.flex-control-thumbs li {width: 25%; float: left; margin: 0;}
+.flex-control-thumbs img {width: 100%; display: block; opacity: .7; cursor: pointer;}
+.flex-control-thumbs img:hover {opacity: 1;}
+.flex-control-thumbs .active {opacity: 1; cursor: default;}
+
+.ui-tabs {
+	position: relative;/* position: relative prevents IE scroll bug (element with position: relative inside container with overflow: auto appear as "fixed") */
+	margin-bottom: 50px;
+	font-size: 12px;
+	line-height: 21px;
+}
+.ui-tabs .ui-tabs-nav {
+	margin: 0;
+	padding: 0px;
+}
+.ui-tabs .ui-tabs-nav li {
+	list-style: none;
+	float: left;
+	position: relative;
+	top: 0;
+	padding: 0;
+	white-space: nowrap;
+	-webkit-box-shadow: 0px 0px 1px rgba(0,0,0,0.1);
+	-moz-box-shadow: 0px 0px 1px rgba(0,0,0,0.1);
+	-ms-box-shadow: 0px 0px 1px rgba(0,0,0,0.1);
+	-o-box-shadow: 0px 0px 1px rgba(0,0,0,0.1);
+	box-shadow: 0px 0px 1px rgba(0,0,0,0.1);
+}
+.ui-tabs .ui-tabs-nav li a {
+	float: left;
+	padding: 15px;
+	text-decoration: none;
+	background: #f0f0f0;
+	font-weight: bold;
+	color: #7c7c7c;
+	outline: 0;
+	border: 1px solid #dedede;
+	margin-left: -1px;
+}
+.ui-tabs .ui-tabs-nav li:first-child a {
+	margin-left: 0px;
+}
+.ui-tabs .ui-tabs-panel p:last-child,.ui-accordion .ui-accordion-content p:last-child {
+	margin-bottom: 0px;
+}
+.ui-tabs .ui-tabs-nav li.ui-tabs-active a,
+.ui-tabs .ui-tabs-nav li.ui-state-disabled a,
+.ui-tabs .ui-tabs-nav li.ui-tabs-loading a {
+	cursor: text;
+	border-bottom: none;
+	background: #fbfbfb;
+	padding-bottom: 16px;
+	color: #32343a;
+}
+.ui-tabs .ui-tabs-nav li a, /* first selector in group seems obsolete, but required to overcome bug in Opera applying cursor: text overall if defined elsewhere... */
+.ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-active a {
+	cursor: pointer;
+}
+.ui-tabs .ui-tabs-panel {
+	display: block;
+	border-width: 0;
+	background: none repeat scroll 0 0 #FFFFFF;
+	border: 1px solid #dedede;
+	margin-top: -1px;
+	padding: 20px;
+	-webkit-box-shadow: 0px 1px 1px rgba(0,0,0,0.1);
+	-moz-box-shadow: 0px 1px 1px rgba(0,0,0,0.1);
+	-ms-box-shadow: 0px 1px 1px rgba(0,0,0,0.1);
+	-o-box-shadow: 0px 1px 1px rgba(0,0,0,0.1);
+	box-shadow: 0px 1px 1px rgba(0,0,0,0.1);
+}
+.ui-tabs .ui-tabs-panel p {
+	width: 100%;
+}
+.ui-accordion{
+	margin-bottom: 50px;
+	font-size: 12px;
+	line-height: 21px;
+}
+.ui-accordion .ui-accordion-header {
+	display: block;
+	cursor: pointer;
+	position: relative;
+	padding: 15px;
+	min-height: 0;
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0px;
+	background: #f0f0f0 url(../img/accordian-down.png) no-repeat;
+	background-position: 97%;
+	color: #7c7c7c;
+	outline: 0;
+	border: 1px solid #dedede;
+	line-height: normal;
+	-webkit-box-shadow: 0px 0px 3px rgba(0,0,0,0.14);
+	-moz-box-shadow: 0px 0px 3px rgba(0,0,0,0.14);
+	-ms-box-shadow: 0px 0px 3px rgba(0,0,0,0.14);
+	-o-box-shadow: 0px 0px 3px rgba(0,0,0,0.14);
+	box-shadow: 0px 0px 3px rgba(0,0,0,0.14);
+}
+.ui-accordion .ui-accordion-header.ui-accordion-header-active.ui-state-active {
+	background: #f0f0f0 url(../img/accordian-up.png) no-repeat;
+	background-position: 97%;
+	-webkit-box-shadow: 0px 0px 1px rgba(0,0,0,0.1);
+	-moz-box-shadow: 0px 0px 1px rgba(0,0,0,0.1);
+	-ms-box-shadow: 0px 0px 1px rgba(0,0,0,0.1);
+	-o-box-shadow: 0px 0px 1px rgba(0,0,0,0.1);
+	box-shadow: 0px 0px 1px rgba(0,0,0,0.1);
+}
+.ui-accordion .ui-accordion-header.top-space {
+	margin-top: 40px;
+}
+.ui-accordion .ui-accordion-noicons {
+	padding-left: .7em;
+}
+.ui-accordion .ui-accordion-icons .ui-accordion-icons {
+	padding-left: 2.2em;
+}
+.ui-accordion .ui-accordion-header .ui-accordion-header-icon {
+	position: absolute;
+	left: .5em;
+	top: 50%;
+	margin-top: -8px;
+}
+.ui-accordion .ui-accordion-content {
+	padding: 15px;
+	border-top: 0;
+	overflow: auto;
+	background: none repeat scroll 0 0 #FFFFFF;
+	border: 1px solid #dedede;
+	margin-top: -1px;
+	-webkit-box-shadow: 0px 1px 1px rgba(0,0,0,0.1);
+	-moz-box-shadow: 0px 1px 1px rgba(0,0,0,0.1);
+	-ms-box-shadow: 0px 1px 1px rgba(0,0,0,0.1);
+	-o-box-shadow: 0px 1px 1px rgba(0,0,0,0.1);
+	box-shadow: 0px 1px 1px rgba(0,0,0,0.1);
+}
+
+body { height:100%; }
+img { border:none; }
+
+.jp-volume-bar {
+	display: inline-block;
+	height: 7px;
+	width: 50px;
+	border: 1px solid #b2b2b2;
+	padding: 1px;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+.jp-volume-bar-value {
+	display: block;
+	background: #fff;
+	height: 7px;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+.jp-volume-icon {
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+	margin-right: 15px;
+}
+.jp-volume-icon .icon-volume-up {
+	font-size: 15px;
+	color: #fff;
+}
+
+/* CSS for jQuery Orbit Plugin 1.2.3
+ * www.ZURB.com/playground
+ * Copyright 2010, ZURB
+ * Free to use under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+ 
+ 
+ 
+
+
+
+
+
+/* CONTAINER
+   ================================================== */
+
+div.orbit-wrapper {
+    width: 100%;
+    position: relative; }
+
+div.orbit {
+    width: 100% !important;
+    position: relative;
+}
+
+.orbit .slider.parallax {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+/* DIRECTIONAL NAV
+   ================================================== */
+
+div.slider-nav {
+    display: block }
+
+div.slider-nav span {
+    position: absolute;
+	top: 50%;
+	margin: 0px;
+	width: auto;
+	padding: 0px;
+	z-index: 1000;
+	-webkit-transition: all .6s ease;
+	-moz-transition: all .6s ease;
+	-o-transition: all .6s ease;
+	transition: all .6s ease;
+	float: none !important;
+	display: block;
+	margin-top: -41px;
+	float: none !important;
+	cursor: pointer;
+	color: #fff;
+}
+.slider.parallax {
+	position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+	display: none;
+}
+div.slider-nav span.right {
+    right: 50px;
+	display: block;
+	width: 50px;
+}
+.slider-nav span.right  i,.slider-nav span.left i{
+	display: block;
+}
+
+div.slider-nav span.left {
+	display: block;
+}
+.slider.parallax .content-area {
+	top: 50%;
+}
+.background-animate {
+	position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.section.full-screen-slider {
+	background: #262626 url(../img/preloader.gif) no-repeat center center; overflow: hidden; }
+}

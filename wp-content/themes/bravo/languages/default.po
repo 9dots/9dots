@@ -1,0 +1,1078 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bravo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-20 20:39+0530\n"
+"PO-Revision-Date: 2013-05-20 20:40+0530\n"
+"Last-Translator: Swami <swami@brandexponents.com>\n"
+"Language-Team: Prothemeus\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: India\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:16
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:20
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr ""
+
+#: ajax-handler.php:14
+msgid "All fields are required"
+msgstr ""
+
+#: ajax-handler.php:18
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: ajax-handler.php:26
+msgid "Enquiry From Website"
+msgstr ""
+
+#: ajax-handler.php:31
+msgid "Your message was sent sucessfully"
+msgstr ""
+
+#: ajax-handler.php:66
+#: ajax-handler.php:105
+#: ajax-handler.php:130
+#: ajax-handler.php:171
+#: ajax-handler.php:192
+#: ajax-handler.php:242
+msgid "Comments"
+msgstr ""
+
+#: ajax-handler.php:111
+#: ajax-handler.php:136
+#: ajax-handler.php:178
+#: ajax-handler.php:249
+#: ajax-handler.php:282
+msgid "Continue Reading"
+msgstr ""
+
+#: bravo-metabox.php:48
+msgid "Upload Song"
+msgstr ""
+
+#: bravo-metabox.php:60
+msgid "Duration of the Song"
+msgstr ""
+
+#: bravo-options.php:28
+msgid "A Section added by hook"
+msgstr ""
+
+#: bravo-options.php:29
+msgid "This is a section created by adding a filter to the sections array, great to allow child themes, to add/remove sections from the options."
+msgstr ""
+
+#: bravo-options.php:74
+msgid "Welcome to "
+msgstr ""
+
+#: bravo-options.php:84
+msgid " Options"
+msgstr ""
+
+#: bravo-options.php:87
+msgid " Theme Options"
+msgstr ""
+
+#: bravo-options.php:103
+msgid "Theme Information 1"
+msgstr ""
+
+#: bravo-options.php:104
+#: bravo-options.php:109
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+#: bravo-options.php:108
+msgid "Theme Information 2"
+msgstr ""
+
+#: bravo-options.php:113
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: bravo-options.php:160
+msgid "General"
+msgstr ""
+
+#: bravo-options.php:161
+msgid "Welcome to the Bravo Theme Options panel. Here you will find various basic ways to tweak the theme to suit your needs."
+msgstr ""
+
+#: bravo-options.php:166
+msgid "Website Status"
+msgstr ""
+
+#: bravo-options.php:167
+msgid "Your current website status."
+msgstr ""
+
+#: bravo-options.php:168
+msgid "It is important to set this to \"deploy\" after you have finished playing with options panel and ready to launch the website. It will help us cache the css and optimize performance of the website"
+msgstr ""
+
+#: bravo-options.php:176
+msgid "Logo"
+msgstr ""
+
+#: bravo-options.php:177
+msgid "Upload your custom logo."
+msgstr ""
+
+#: bravo-options.php:182
+msgid "Retina Logo"
+msgstr ""
+
+#: bravo-options.php:183
+msgid "Upload a retina logo for retina-ready devices."
+msgstr ""
+
+#: bravo-options.php:184
+msgid "Please append @2x to your logo's file name. If your logo is example.png , the retina logo must be named example@2x.png."
+msgstr ""
+
+#: bravo-options.php:189
+msgid "Your Favicon"
+msgstr ""
+
+#: bravo-options.php:190
+msgid "A Favicon is the bookmark icon of your website."
+msgstr ""
+
+#: bravo-options.php:191
+msgid "Please upload a 16px x 16px Favicon or 32px x 32px Favicon (.PNG or .ICO) for retina-ready devices here."
+msgstr ""
+
+#: bravo-options.php:197
+msgid "Copyright Text"
+msgstr ""
+
+#: bravo-options.php:198
+msgid "Footer copyright text."
+msgstr ""
+
+#: bravo-options.php:199
+msgid "Please place your copyright text to be displayed at the bottom-left of the footer."
+msgstr ""
+
+#: bravo-options.php:207
+msgid "Google Analytics ID"
+msgstr ""
+
+#: bravo-options.php:208
+msgid "The Google Analytics tracking code."
+msgstr ""
+
+#: bravo-options.php:209
+msgid "Please enter your Google analytics tracking code here."
+msgstr ""
+
+#: bravo-options.php:216
+msgid "Enable Smooth Scroll"
+msgstr ""
+
+#: bravo-options.php:217
+msgid "Uncheck to retain native OS scrollbar."
+msgstr ""
+
+#: bravo-options.php:223
+msgid "Blog - Related Posts"
+msgstr ""
+
+#: bravo-options.php:224
+msgid "Related blog posts on single blog posts."
+msgstr ""
+
+#: bravo-options.php:230
+msgid "Portfolio - Related Posts"
+msgstr ""
+
+#: bravo-options.php:231
+msgid "Related portfolio posts on single portfolio posts."
+msgstr ""
+
+#: bravo-options.php:237
+msgid "Custom CSS"
+msgstr ""
+
+#: bravo-options.php:238
+msgid "Enter custom CSS."
+msgstr ""
+
+#: bravo-options.php:239
+msgid "Please add your custom css here."
+msgstr ""
+
+#: bravo-options.php:246
+msgid "Custom Javascript"
+msgstr ""
+
+#: bravo-options.php:247
+msgid "Enter custom Javascript."
+msgstr ""
+
+#: bravo-options.php:248
+msgid "Please add your custom js code here."
+msgstr ""
+
+#: bravo-options.php:257
+msgid "Basic Styling"
+msgstr ""
+
+#: bravo-options.php:258
+msgid "This panel will allow you to have a bit more control over the appearance of the header and footer."
+msgstr ""
+
+#: bravo-options.php:263
+msgid "Header"
+msgstr ""
+
+#: bravo-options.php:264
+msgid "Customize the header."
+msgstr ""
+
+#: bravo-options.php:265
+msgid "Header Section"
+msgstr ""
+
+#: bravo-options.php:281
+msgid "Footer"
+msgstr ""
+
+#: bravo-options.php:282
+msgid "Customize the footer."
+msgstr ""
+
+#: bravo-options.php:283
+msgid "Footer Section"
+msgstr ""
+
+#: bravo-options.php:299
+msgid "Accent Color"
+msgstr ""
+
+#: bravo-options.php:300
+msgid "This will change the main color used through the theme."
+msgstr ""
+
+#: bravo-options.php:309
+msgid "Typography"
+msgstr ""
+
+#: bravo-options.php:310
+msgid "The Bravo Wordpress theme comes with a wide variety to change the typography of your theme. Shown below are options to change fonts, colors, sizes and much more!"
+msgstr ""
+
+#: bravo-options.php:316
+msgid "Font Preview"
+msgstr ""
+
+#: bravo-options.php:317
+msgid "Typography Font Preview Section"
+msgstr ""
+
+#: bravo-options.php:323
+msgid "H1 Heading Tag"
+msgstr ""
+
+#: bravo-options.php:341
+msgid "H2 Heading Tag"
+msgstr ""
+
+#: bravo-options.php:358
+msgid "H3 Heading Tag"
+msgstr ""
+
+#: bravo-options.php:375
+msgid "H4 Heading Tag"
+msgstr ""
+
+#: bravo-options.php:392
+msgid "H5 Heading Tag"
+msgstr ""
+
+#: bravo-options.php:409
+msgid "H6 Heading Tag"
+msgstr ""
+
+#: bravo-options.php:425
+#: bravo-page-bulider.php:348
+msgid "Sub Title"
+msgstr ""
+
+#: bravo-options.php:442
+msgid "Paragraph Text"
+msgstr ""
+
+#: bravo-options.php:457
+msgid "Sidebar Widget Text"
+msgstr ""
+
+#: bravo-options.php:473
+msgid "Footer Widget Text"
+msgstr ""
+
+#: bravo-options.php:489
+msgid "Footer Text"
+msgstr ""
+
+#: bravo-options.php:490
+msgid "Text below the main footer."
+msgstr ""
+
+#: bravo-options.php:506
+msgid "Navigation Menu"
+msgstr ""
+
+#: bravo-options.php:524
+msgid "Select Header Layout"
+msgstr ""
+
+#: bravo-options.php:525
+msgid "<p class=\"description\">The Bravo theme has two header layouts available to customize your theme even more. Shown below are two examples which you can select.</p>"
+msgstr ""
+
+#: bravo-options.php:531
+msgid "Available Header Layouts"
+msgstr ""
+
+#: bravo-options.php:543
+msgid "Contact Settings"
+msgstr ""
+
+#: bravo-options.php:544
+msgid "Enter the email address where you would like to receive emails that have been sent through the contact form."
+msgstr ""
+
+#: bravo-options.php:550
+msgid "Contact Email Id"
+msgstr ""
+
+#: bravo-options.php:551
+msgid "Please enter your email address"
+msgstr ""
+
+#: bravo-options.php:559
+msgid "Portfolio Settings"
+msgstr ""
+
+#: bravo-options.php:560
+msgid "Please enter the maximum image height of the portfolio thumbnails."
+msgstr ""
+
+#: bravo-options.php:566
+msgid "Thumbnail Height"
+msgstr ""
+
+#: bravo-options.php:567
+msgid "Maximum thumbnail height of the portfolio."
+msgstr ""
+
+#: bravo-options.php:596
+msgid "Theme URL: "
+msgstr ""
+
+#: bravo-options.php:597
+msgid "Author: "
+msgstr ""
+
+#: bravo-options.php:598
+msgid "Version: "
+msgstr ""
+
+#: bravo-options.php:600
+msgid "Tags: "
+msgstr ""
+
+#: bravo-options.php:607
+msgid "Theme Information"
+msgstr ""
+
+#: bravo-page-bulider.php:9
+msgid "Full Width Portfolio"
+msgstr ""
+
+#: bravo-page-bulider.php:13
+#: bravo-page-bulider.php:75
+#: bravo-page-bulider.php:137
+#: bravo-page-bulider.php:204
+#: bravo-page-bulider.php:281
+msgid "Custom background ?"
+msgstr ""
+
+#: bravo-page-bulider.php:18
+#: bravo-page-bulider.php:80
+#: bravo-page-bulider.php:142
+#: bravo-page-bulider.php:209
+#: bravo-page-bulider.php:286
+#: bravo-page-bulider.php:368
+msgid "Upload a background image / pattern"
+msgstr ""
+
+#: bravo-page-bulider.php:24
+#: bravo-page-bulider.php:86
+#: bravo-page-bulider.php:148
+#: bravo-page-bulider.php:215
+#: bravo-page-bulider.php:292
+#: bravo-page-bulider.php:374
+msgid "Choose from one of the preset patterns"
+msgstr ""
+
+#: bravo-page-bulider.php:30
+#: bravo-page-bulider.php:92
+#: bravo-page-bulider.php:154
+#: bravo-page-bulider.php:221
+#: bravo-page-bulider.php:298
+#: bravo-page-bulider.php:380
+msgid "Choose a background color"
+msgstr ""
+
+#: bravo-page-bulider.php:35
+#: bravo-page-bulider.php:97
+#: bravo-page-bulider.php:159
+#: bravo-page-bulider.php:226
+#: bravo-page-bulider.php:303
+#: bravo-page-bulider.php:385
+msgid "Background Repeat"
+msgstr ""
+
+#: bravo-page-bulider.php:41
+#: bravo-page-bulider.php:103
+#: bravo-page-bulider.php:165
+#: bravo-page-bulider.php:232
+#: bravo-page-bulider.php:309
+#: bravo-page-bulider.php:391
+msgid "Background Attachment"
+msgstr ""
+
+#: bravo-page-bulider.php:47
+#: bravo-page-bulider.php:109
+#: bravo-page-bulider.php:171
+#: bravo-page-bulider.php:238
+#: bravo-page-bulider.php:315
+#: bravo-page-bulider.php:397
+msgid "Background Position"
+msgstr ""
+
+#: bravo-page-bulider.php:53
+#: bravo-page-bulider.php:115
+#: bravo-page-bulider.php:177
+#: bravo-page-bulider.php:249
+#: bravo-page-bulider.php:321
+#: bravo-page-bulider.php:403
+#: bravo-page-bulider.php:430
+msgid "Top Margin in pixels"
+msgstr ""
+
+#: bravo-page-bulider.php:58
+#: bravo-page-bulider.php:120
+#: bravo-page-bulider.php:182
+#: bravo-page-bulider.php:254
+#: bravo-page-bulider.php:326
+#: bravo-page-bulider.php:408
+#: bravo-page-bulider.php:435
+msgid "Bottom Margin in pixels"
+msgstr ""
+
+#: bravo-page-bulider.php:63
+#: bravo-page-bulider.php:125
+#: bravo-page-bulider.php:187
+#: bravo-page-bulider.php:259
+#: bravo-page-bulider.php:331
+#: bravo-page-bulider.php:413
+msgid "Parallax Section ?"
+msgstr ""
+
+#: bravo-page-bulider.php:71
+msgid "Three Column Portfolio"
+msgstr ""
+
+#: bravo-page-bulider.php:133
+msgid "Blog"
+msgstr ""
+
+#: bravo-page-bulider.php:195
+msgid "Twitter Module"
+msgstr ""
+
+#: bravo-page-bulider.php:199
+msgid "Twitter ID"
+msgstr ""
+
+#: bravo-page-bulider.php:244
+#: bravo-page-bulider.php:353
+msgid "Choose the text color"
+msgstr ""
+
+#: bravo-page-bulider.php:268
+msgid "Page"
+msgstr ""
+
+#: bravo-page-bulider.php:272
+msgid "Choose a page"
+msgstr ""
+
+#: bravo-page-bulider.php:276
+msgid "Show Page Title ?"
+msgstr ""
+
+#: bravo-page-bulider.php:339
+msgid "Title Module"
+msgstr ""
+
+#: bravo-page-bulider.php:343
+msgid "Title"
+msgstr ""
+
+#: bravo-page-bulider.php:358
+msgid "Show Divider between Title and Sub Title"
+msgstr ""
+
+#: bravo-page-bulider.php:363
+msgid "Check this box if you want to use a custom background"
+msgstr ""
+
+#: bravo-page-bulider.php:421
+msgid "Full Screen Slider"
+msgstr ""
+
+#: bravo-page-bulider.php:425
+msgid "Choose slider categories from which the images need to be fetched"
+msgstr ""
+
+#: comments.php:16
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:32
+msgid "A comment is highly appreciated!"
+msgstr ""
+
+#: comments.php:37
+#: comments.php:51
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:38
+#: comments.php:52
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:39
+#: comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:65
+msgid "Submit"
+msgstr ""
+
+#: comments.php:67
+msgid "leave a comment"
+msgstr ""
+
+#: comments.php:68
+msgid "A nice comment is very much appreciated!"
+msgstr ""
+
+#: functions.php:31
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:429
+#: functions.php:473
+msgid "Edit"
+msgstr ""
+
+#: functions.php:451
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: functions.php:452
+msgid "By "
+msgstr ""
+
+#: functions.php:453
+msgid "On "
+msgstr ""
+
+#: functions.php:461
+msgid "Reply"
+msgstr ""
+
+#: functions.php:464
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:506
+#: functions.php:563
+msgid "Related Posts"
+msgstr ""
+
+#: page-title.php:4
+msgid "Welcome to our Blog"
+msgstr ""
+
+#: page-title.php:7
+msgid "Category: "
+msgstr ""
+
+#: page-title.php:11
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: page-title.php:13
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: page-title.php:15
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: page-title.php:17
+msgid "Blog Archives"
+msgstr ""
+
+#: page-title.php:21
+msgid "Articles Tagged with: "
+msgstr ""
+
+#: page-title.php:24
+msgid "Search Results for: "
+msgstr ""
+
+#: search.php:219
+msgid "Apologies, but no results were found. Perhaps searching with a different query will help find a related post."
+msgstr ""
+
+#: search.php:222
+msgid "Sorry, Please enter a search query"
+msgstr ""
+
+#: single.php:65
+msgid "Posted under"
+msgstr ""
+
+#: single.php:138
+msgid "Pages:"
+msgstr ""
+
+#: single.php:143
+msgid "Next page"
+msgstr ""
+
+#: single.php:144
+msgid "Previous page"
+msgstr ""
+
+#: be-page-builder/be-page-builder.php:354
+msgid "Page Builder"
+msgstr ""
+
+#: be-page-builder/be-page-builder.php:368
+msgid "Add Page Module"
+msgstr ""
+
+#: be-page-builder/be-page-builder.php:369
+msgid "Start building your page by adding a new module. Click on any of the buttons below to create a new shortcode module."
+msgstr ""
+
+#: be-page-builder/be-page-builder.php:391
+msgid "This items will be permanently deleted and cannot be recovered. Are you sure?"
+msgstr ""
+
+#: functions/custom-post-types.php:61
+msgid "Sort Portfolio Order"
+msgstr ""
+
+#: functions/custom-post-types.php:62
+msgid "Drag and Drop to rearrange the order in which the portfolio items need to be shown"
+msgstr ""
+
+#: functions/shortcodes.php:111
+msgid "Name"
+msgstr ""
+
+#: functions/shortcodes.php:114
+msgid "Email"
+msgstr ""
+
+#: functions/shortcodes.php:117
+msgid "Website"
+msgstr ""
+
+#: functions/shortcodes.php:121
+msgid "Message"
+msgstr ""
+
+#: functions/shortcodes.php:124
+msgid "Send"
+msgstr ""
+
+#: functions/shortcodes.php:358
+#: functions/shortcodes.php:424
+msgid "All"
+msgstr ""
+
+#: functions/shortcodes.php:700
+msgid "Show More Posts"
+msgstr ""
+
+#: functions/shortcodes.php:700
+msgid " Posts Remaining"
+msgstr ""
+
+#: functions/shortcodes.php:703
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr ""
+
+#: functions/shortcodes.php:823
+msgid "<p>Tweets not available at this time. Please Try again later</p>"
+msgstr ""
+
+#: functions/widget-functions.php:8
+msgid "Bottom Widget"
+msgstr ""
+
+#: functions/widget-functions.php:10
+msgid "Bottom widget area"
+msgstr ""
+
+#: functions/widget-functions.php:17
+msgid "Right Sidebar Widget"
+msgstr ""
+
+#: functions/widget-functions.php:19
+msgid "Right Sidebar area"
+msgstr ""
+
+#: functions/custom-post-types/post_type.class.php:75
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: functions/custom-post-types/post_type.class.php:76
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: functions/custom-post-types/post_type.class.php:77
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: functions/custom-post-types/post_type.class.php:78
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: functions/custom-post-types/post_type.class.php:79
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: functions/custom-post-types/post_type.class.php:80
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: functions/custom-post-types/post_type.class.php:81
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: functions/custom-post-types/post_type.class.php:82
+#, php-format
+msgid "No %s found in trash"
+msgstr ""
+
+#: functions/custom-post-types/PostType.php:57
+msgid "Remove current image"
+msgstr ""
+
+#: functions/custom-post-types/PostType.php:58
+msgid "Remove current file"
+msgstr ""
+
+#: functions/custom-post-types/PostType.php:177
+msgid "Use of a reserved term"
+msgstr ""
+
+#: functions/custom-post-types/taxonomy.class.php:90
+msgid "Search "
+msgstr ""
+
+#: functions/custom-post-types/taxonomy.class.php:91
+msgid "All "
+msgstr ""
+
+#: functions/custom-post-types/taxonomy.class.php:92
+msgid "Parent "
+msgstr ""
+
+#: functions/custom-post-types/taxonomy.class.php:93
+msgid "Parent :"
+msgstr ""
+
+#: functions/custom-post-types/taxonomy.class.php:94
+msgid "Edit "
+msgstr ""
+
+#: functions/custom-post-types/taxonomy.class.php:95
+msgid "Update "
+msgstr ""
+
+#: functions/custom-post-types/taxonomy.class.php:96
+msgid "Add New "
+msgstr ""
+
+#: functions/custom-post-types/taxonomy.class.php:97
+msgid "New Name"
+msgstr ""
+
+#: functions/custom-post-types/taxonomy.class.php:158
+msgid "Date"
+msgstr ""
+
+#: functions/custom-post-types/taxonomy.class.php:211
+#, php-format
+msgid "Show All %s"
+msgstr ""
+
+#: functions/widgets/recent_post_widget.php:5
+msgid "The most recent posts on your site"
+msgstr ""
+
+#: functions/widgets/recent_post_widget.php:6
+#: functions/widgets/recent_post_widget.php:31
+msgid "Recent Posts"
+msgstr ""
+
+#: functions/widgets/recent_post_widget.php:96
+msgid "Title:"
+msgstr ""
+
+#: functions/widgets/recent_post_widget.php:99
+msgid "Number of posts to show:"
+msgstr ""
+
+#: functions/widgets/twitter_widget.php:4
+msgid "A list of your tweets"
+msgstr ""
+
+#: functions/widgets/twitter_widget.php:5
+msgid "Twitter"
+msgstr ""
+
+#: functions/widgets/twitter_widget.php:51
+msgid "<li>Tweets not available at this time. Please Try again later</li>"
+msgstr ""
+
+#: functions/widgets/twitter_widget.php:73
+msgid "Count"
+msgstr ""
+
+#: meta-box/inc/classes/meta-box.php:299
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: meta-box/inc/classes/meta-box.php:360
+msgid "+"
+msgstr ""
+
+#: meta-box/inc/classes/meta-box.php:382
+msgid "&#8211;"
+msgstr ""
+
+#: meta-box/inc/fields/file.php:66
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: meta-box/inc/fields/image.php:64
+msgid "Order saved"
+msgstr ""
+
+#: meta-box/inc/fields/map.php:46
+msgid "Find Address"
+msgstr ""
+
+#: meta-box/inc/fields/post.php:54
+msgid "Post"
+msgstr ""
+
+#: meta-box/inc/fields/post.php:68
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: meta-box/inc/fields/select-advanced.php:71
+msgid "Select a value"
+msgstr ""
+
+#: options/options.php:60
+#: options/options.php:62
+msgid "Options"
+msgstr ""
+
+#: options/options.php:74
+msgid "Bravo Options"
+msgstr ""
+
+#: options/options.php:289
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr ""
+
+#: options/options.php:640
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: options/options.php:642
+#: options/options.php:647
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: options/options.php:648
+msgid "<strong>Settings Reseted!</strong>"
+msgstr ""
+
+#: options/options.php:649
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr ""
+
+#: options/options.php:650
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: options/options.php:652
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: options/options.php:654
+msgid "<strong><span></span> No Changes Made!</strong>"
+msgstr ""
+
+#: options/options.php:674
+msgid "Import / Export"
+msgstr ""
+
+#: options/options.php:692
+#: options/options.php:772
+msgid "Dev Mode Info"
+msgstr ""
+
+#: options/options.php:708
+msgid "Import / Export Options"
+msgstr ""
+
+#: options/options.php:710
+msgid "Import Options"
+msgstr ""
+
+#: options/options.php:718
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr ""
+
+#: options/options.php:731
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr ""
+
+#: options/options.php:741
+msgid "Import"
+msgstr ""
+
+#: options/options.php:741
+msgid "WARNING! This will overwrite any existing options, please proceed with caution!"
+msgstr ""
+
+#: options/options.php:744
+msgid "Export Options"
+msgstr ""
+
+#: options/options.php:746
+msgid "Here you can copy/download your themes current option settings. Keep this safe as you can use it as a backup should anything go wrong. Or you can use it to restore your settings on this site (or any other site). You also have the handy option to copy the link to yours sites settings. Which you can then use to duplicate on another site"
+msgstr ""
+
+#: options/options.php:797
+msgid "Reset to Defaults"
+msgstr ""
+
+#: options/fields/color_gradient/field_color_gradient.php:35
+msgid "From:"
+msgstr ""
+
+#: options/fields/color_gradient/field_color_gradient.php:38
+msgid " To:"
+msgstr ""
+
+#: options/fields/google_webfonts/field_google_webfonts.php:42
+msgid "The fonts provided below are free to use custom fonts from the <a href=\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts directory</a>.<br/>Please <a href=\"http://www.google.com/webfonts\" target=\"_blank\">browse the directory</a> to preview a font, then select your choice below."
+msgstr ""
+
+#: options/fields/multi_text/field_multi_text.php:39
+#: options/fields/multi_text/field_multi_text.php:46
+#: options/fields/multi_text/field_multi_text.php:50
+msgid "Remove"
+msgstr ""
+
+#: options/fields/multi_text/field_multi_text.php:54
+msgid "Add More"
+msgstr ""
+
+#: options/fields/upload/field_upload.php:40
+msgid "Browse"
+msgstr ""
+
+#: options/fields/upload/field_upload.php:41
+msgid "Remove Upload"
+msgstr ""
+
+#: options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: options/validation/comma_numeric/validation_comma_numeric.php:15
+msgid "You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: options/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: options/validation/no_html/validation_no_html.php:15
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr ""
+
+#: options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+

@@ -1,0 +1,4 @@
+[03-Jul-2013 12:53:19 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/paulus23/public_html/prothemeus.com/demo/wp-content/themes/bravo/functions/widgets/recent_post_widget.php on line 2
+[03-Jul-2013 12:53:20 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/paulus23/public_html/prothemeus.com/demo/wp-content/themes/bravo/functions/widgets/twitter_widget.php on line 2
+[03-Jul-2013 12:53:20 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/paulus23/public_html/prothemeus.com/demo/wp-content/themes/bravo/functions/widgets/recent_post_widget.php on line 2
+[03-Jul-2013 12:53:21 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/paulus23/public_html/prothemeus.com/demo/wp-content/themes/bravo/functions/widgets/twitter_widget.php on line 2

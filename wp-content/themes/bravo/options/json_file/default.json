@@ -1,0 +1,370 @@
+{"skin": [ 
+
+	{
+		"ID":"default_options",
+		"TYPE":"hidden" ,
+		"VALUE":"Y"
+	}
+	{
+		"ID":"body",
+		"TYPE":"colorpicker" ,
+		"VALUE":"#888888"
+	},
+	{
+		"ID":"bodybgtransparant",
+		"TYPE":"checkbox" ,
+		"VALUE":"1"
+	},
+	{
+		"ID":"body-defaults",
+		"TYPE":"pattern-selector" ,
+		"VALUE":"None"
+	},
+	{
+		"ID":"body-recur",
+		"TYPE":"selectbox" ,
+		"VALUE":"repeat"
+	},
+	{
+		"ID":"body-align",
+		"TYPE":"selectbox" ,
+		"VALUE":"top left"
+	},
+	{
+		"ID":"body-position",
+		"TYPE":"selectbox" ,
+		"VALUE":"scroll"
+	},
+	{
+		"ID":"bodyslider",
+		"TYPE":"slider" ,
+		"VALUE":"0"
+	},
+	{
+		"ID":"h1",
+		"TYPE":"colorpicker" ,
+		"VALUE":"#dddddd"
+	},
+	{
+		"ID":"h1family",
+		"TYPE":"selectbox" ,
+		"VALUE":"google/Exo:200"
+	},
+	{
+		"ID":"h1size",
+		"TYPE":"selectbox" ,
+		"VALUE":"32px"
+	},
+	{
+		"ID":"h1weight",
+		"TYPE":"selectbox" ,
+		"VALUE":"200"
+	},
+	{
+		"ID":"h1transform",
+		"TYPE":"selectbox" ,
+		"VALUE":"none"
+	},
+	{
+		"ID":"h1line_height",
+		"TYPE":"selectbox" ,
+		"VALUE":"48px"
+	},
+	{
+		"ID":"h2",
+		"TYPE":"colorpicker" ,
+		"VALUE":"#dddddd"
+	},
+	{
+		"ID":"h2family",
+		"TYPE":"selectbox" ,
+		"VALUE":"google/Exo:200"
+	},
+	{
+		"ID":"h2size",
+		"TYPE":"selectbox" ,
+		"VALUE":"28px"
+	},
+	{
+		"ID":"h2weight",
+		"TYPE":"selectbox" ,
+		"VALUE":"200"
+	},
+	{
+		"ID":"h2transform",
+		"TYPE":"selectbox" ,
+		"VALUE":"none"
+	},
+	{
+		"ID":"h2line_height",
+		"TYPE":"selectbox" ,
+		"VALUE":"42px"
+	},
+	{
+		"ID":"h3",
+		"TYPE":"colorpicker" ,
+		"VALUE":"#dddddd"
+	},
+	{
+		"ID":"h3family",
+		"TYPE":"selectbox" ,
+		"VALUE":"google/Exo:200"
+	},
+	{
+		"ID":"h3size",
+		"TYPE":"selectbox" ,
+		"VALUE":"24px"
+	},
+	{
+		"ID":"h3weight",
+		"TYPE":"selectbox" ,
+		"VALUE":"200"
+	},
+	{
+		"ID":"h3transform",
+		"TYPE":"selectbox" ,
+		"VALUE":"none"
+	},
+	{
+		"ID":"h3line_height",
+		"TYPE":"selectbox" ,
+		"VALUE":"36px"
+	},
+	{
+		"ID":"h4",
+		"TYPE":"colorpicker" ,
+		"VALUE":"#dddddd"
+	},
+	{
+		"ID":"h4family",
+		"TYPE":"selectbox" ,
+		"VALUE":"google/Exo:200"
+	},
+	{
+		"ID":"h4size",
+		"TYPE":"selectbox" ,
+		"VALUE":"18px"
+	},
+	{
+		"ID":"h4weight",
+		"TYPE":"selectbox" ,
+		"VALUE":"200"
+	},
+	{
+		"ID":"h4transform",
+		"TYPE":"selectbox" ,
+		"VALUE":"none"
+	},
+	{
+		"ID":"h4line_height",
+		"TYPE":"selectbox" ,
+		"VALUE":"27px"
+	},
+	{
+		"ID":"h5",
+		"TYPE":"colorpicker" ,
+		"VALUE":"#dddddd"
+	},
+	{
+		"ID":"h5family",
+		"TYPE":"selectbox" ,
+		"VALUE":"google/Exo:200"
+	},
+	{
+		"ID":"h5size",
+		"TYPE":"selectbox" ,
+		"VALUE":"16px"
+	},
+	{
+		"ID":"h5weight",
+		"TYPE":"selectbox" ,
+		"VALUE":"200"
+	},
+	{
+		"ID":"h5transform",
+		"TYPE":"selectbox" ,
+		"VALUE":"none"
+	},
+	{
+		"ID":"h5line_height",
+		"TYPE":"selectbox" ,
+		"VALUE":"24px"
+	},
+	{
+		"ID":"h6",
+		"TYPE":"colorpicker" ,
+		"VALUE":"#dddddd"
+	},
+	{
+		"ID":"h6family",
+		"TYPE":"selectbox" ,
+		"VALUE":"google/Exo:200"
+	},
+	{
+		"ID":"h6size",
+		"TYPE":"selectbox" ,
+		"VALUE":"14px"
+	},
+	{
+		"ID":"h6weight",
+		"TYPE":"selectbox" ,
+		"VALUE":"200"
+	},
+	{
+		"ID":"h6transform",
+		"TYPE":"selectbox" ,
+		"VALUE":"none"
+	},
+	{
+		"ID":"h6line_height",
+		"TYPE":"selectbox" ,
+		"VALUE":"21px"
+	},
+	{
+		"ID":"page_title",
+		"TYPE":"colorpicker" ,
+		"VALUE":"#dddddd"
+	},
+	{
+		"ID":"page_titlefamily",
+		"TYPE":"selectbox" ,
+		"VALUE":"google/Exo:200"
+	},
+	{
+		"ID":"page_titlesize",
+		"TYPE":"selectbox" ,
+		"VALUE":"40px"
+	},
+	{
+		"ID":"page_titleweight",
+		"TYPE":"selectbox" ,
+		"VALUE":"200"
+	},
+	{
+		"ID":"page_titletransform",
+		"TYPE":"selectbox" ,
+		"VALUE":"uppercase"
+	},
+	{
+		"ID":"page_titleline_height",
+		"TYPE":"selectbox" ,
+		"VALUE":"60px"
+	},
+	{
+		"ID":"navigation_menufamily",
+		"TYPE":"selectbox" ,
+		"VALUE":"google/Exo:200"
+	},
+	{
+		"ID":"navigation_menusize",
+		"TYPE":"selectbox" ,
+		"VALUE":"13px"
+	},
+	{
+		"ID":"navigation_menuweight",
+		"TYPE":"selectbox" ,
+		"VALUE":"200"
+	},
+	{
+		"ID":"navigation_menutransform",
+		"TYPE":"selectbox" ,
+		"VALUE":"uppercase"
+	},
+	{
+		"ID":"navigation_menu",
+		"TYPE":"colorpicker" ,
+		"VALUE":"#f2f2f2"
+	},
+	{
+		"ID":"navigation_menuline_height",
+		"TYPE":"selectbox" ,
+		"VALUE":"50px"
+	},
+	{
+		"ID":"footer_text",
+		"TYPE":"colorpicker" ,
+		"VALUE":"#f2f2f2"
+	},
+	{
+		"ID":"footer_textfamily",
+		"TYPE":"selectbox" ,
+		"VALUE":"google/Exo:200"
+	},
+	{
+		"ID":"footer_textsize",
+		"TYPE":"selectbox" ,
+		"VALUE":"13px"
+	},
+	{
+		"ID":"footer_textline_height",
+		"TYPE":"selectbox" ,
+		"VALUE":"50px"
+	},
+	{
+		"ID":"body_text",
+		"TYPE":"colorpicker" ,
+		"VALUE":"#999"
+	},
+	{
+		"ID":"body_textfamily",
+		"TYPE":"selectbox" ,
+		"VALUE":"google/Ubuntu:regular"
+	},
+	{
+		"ID":"body_textsize",
+		"TYPE":"selectbox" ,
+		"VALUE":"13px"
+	},
+	{
+		"ID":"body_textweight",
+		"TYPE":"selectbox" ,
+		"VALUE":"400"
+	},
+	{
+		"ID":"body_texttransform",
+		"TYPE":"selectbox" ,
+		"VALUE":"none"
+	},
+	{
+		"ID":"body_textline_height",
+		"TYPE":"selectbox" ,
+		"VALUE":"23px"
+	},
+	{
+		"ID":"widget_text",
+		"TYPE":"colorpicker" ,
+		"VALUE":"#999"
+	},
+	{
+		"ID":"widget_textfamily",
+		"TYPE":"selectbox" ,
+		"VALUE":"google/Ubuntu:regular"
+	},
+	{
+		"ID":"widget_textsize",
+		"TYPE":"selectbox" ,
+		"VALUE":"12px"
+	},
+	{
+		"ID":"widget_textweight",
+		"TYPE":"selectbox" ,
+		"VALUE":"400"
+	},
+	{
+		"ID":"widget_texttransform",
+		"TYPE":"selectbox" ,
+		"VALUE":"none"
+	},
+	{
+		"ID":"widget_textline_height",
+		"TYPE":"selectbox" ,
+		"VALUE":"20px"
+	}
+	
+]}
+
+
+         
+ 
+ 
+       

@@ -1,0 +1,6 @@
+.blog-post {
+	border: 1px solid #dddddd;
+}
+input[type=text], input[type=password], input[type=email], input[type=url], input[type=number], textarea {
+	padding-left:17px;
+}	
