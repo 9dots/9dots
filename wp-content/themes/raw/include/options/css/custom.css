@@ -1,0 +1,233 @@
+/*
+ *
+ * Don't forget to set custom_css to true in the defaults.php file!
+ *
+ */
+
+@import url('options.css');
+
+
+ul#redux-opts-group-menu li a i.wave-icon{
+	content: " ";
+	width: 16px;
+	height: 16px;
+}
+
+ul#redux-opts-group-menu li a i.icon-wave-color{
+	background: url(../../assets/img/admin/icons/color.png);
+}
+
+ul#redux-opts-group-menu li a i.icon-wave-sections{
+	background: url(../../assets/img/admin/icons/sections.png);
+}
+
+ul#redux-opts-group-menu li a i.icon-wave-wave-themes{
+	background: url(../../assets/img/admin/icons/wave-themes.png);
+}
+
+div.wp-picker-holder{
+	position: absolute;
+	z-index: 5000;
+}
+
+
+div.style-text-fields{
+	
+}
+
+div.style-text-fields label.field-label,
+div.color-named-fields label.field-label{
+	display:block;
+	width:100%;
+	font-weight: 600;
+	font-family: 'Open Sans', sans-serif !important;
+	font-size: 11px;
+	color: #666;
+	padding:0 0 8px 0;
+	cursor: default;
+}
+
+div.style-text-fields-color,
+div.style-text-fields-font,
+div.style-text-fields-size,
+div.color-named-fields-name,
+div.color-named-fields-color{
+	width: 160px;
+	float:left;
+}
+
+div.style-text-fields-color{
+	width: 140px;
+}
+
+div.style-text-fields-font{
+	width: 240px;
+	padding:0 20px 0 0;
+}
+
+div.style-text-fields-size{
+	
+}
+
+div.style-text-fields-size div.slider{
+	width:160px;
+}
+
+
+
+#redux-opts-form-wrapper{
+	font-family: 'Open Sans', sans-serif !important;
+	font-weight: 400;
+}
+
+#redux-opts-form-wrapper .redux-opts-group-tab .form-table tr th {
+	font-family: 'Open Sans', sans-serif !important;
+	font-weight: 600;
+}
+
+#redux-opts-form-wrapper .redux-opts-group-tab h3{
+	font-family: 'Open Sans', sans-serif !important;
+	font-weight: 700;
+}
+
+#redux-opts-sidebar #redux-opts-group-menu li a span{
+	font-family: 'Open Sans', sans-serif !important;
+	font-weight: 600;
+}
+
+.redux-opts-group-tab .form-table table.google-maps-locations {
+	
+}
+
+.redux-opts-group-tab .form-table table.google-maps-locations tr {
+	
+}
+
+.redux-opts-group-tab .form-table table.google-maps-locations tr th {
+	width:auto;
+	font-weight: 700;
+	font-family: 'Open Sans', sans-serif !important;
+	font-size: 11px;
+	color: #666;
+	cursor: default;
+	padding: 5px;
+}
+
+.redux-opts-group-tab .form-table table.google-maps-locations tr td {
+	padding:5px;
+	vertical-align: top;
+}
+
+.redux-opts-group-tab .form-table table.google-maps-locations tr td input {
+	width: 180px;
+}
+
+.redux-opts-group-tab .form-table table.google-maps-locations tr td textarea {
+	width: 180px;
+	height: 60px;
+}
+
+
+/*
+		echo '<span class="hidden-row"></span>';
+        echo '</td>';
+        echo '</tr>';
+        echo '</table>';
+        echo '<table class="form-table no-border">';
+        echo '<tbody>';
+        echo '<tr>';
+        echo '<th class="header" colspan="2">';
+        echo '</th>';
+        echo '<td class="hidden">';
+*/
+
+
+
+
+.redux-opts-group-tab .form-table tr{
+	border:none;
+}
+
+
+.redux-opts-group-tab .form-table tr th.header{
+	background:#F7F7F7;
+	padding: 12px;
+	font-size: 16px;
+	border: 1px solid #DFDFDF;
+	border-radius: 3px;
+}
+
+
+
+#redux-opts-form-wrapper #redux-opts-header.branded{
+	-webkit-border-radius: 4px 4px 0px 0px;
+    border-radius: 4px 4px 0px 0px;
+	height:99px;
+	padding:0;
+	background:url("../../../assets/img/admin/header-background.jpg") 0 0 repeat-x scroll #555;
+}
+
+#redux-opts-form-wrapper #redux-opts-header{
+	padding:0;
+}
+
+#redux-opts-header img.logo{
+	float: left;
+}
+
+#redux-opts-header input.button.button-primary{
+	border: none;
+	background:#04cb82;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.7);
+	font-weight: 600;
+	font-size: 11px;
+	font-family: 'Open Sans', sans-serif !important;
+	padding: 8px 14px;
+	height: auto;
+	transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	color:#fff;
+	margin:33px;
+}
+
+#redux-opts-header.branded input.button.button-primary{
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+#redux-opts-header input.button.button-primary:hover{
+	background: #06af71;
+	color:#fff;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.7);
+}
+
+
+#redux-opts-sidebar #redux-opts-group-menu li a{
+	outline: 0;
+    padding: 10px 10px;
+}
+
+#redux-opts-sidebar #redux-opts-group-menu li a span{
+	font-weight: 600;
+	font-size: 11px;
+	font-family: 'Open Sans', sans-serif !important;
+	color:#666;
+	padding-left: 4px;
+}
+
+#redux-opts-sidebar #redux-opts-group-menu li a:hover span{
+	color:#007CBD;
+}
+
+#redux-opts-sidebar #redux-opts-group-menu li.active a span{
+	color:#007CBD;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,4692 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RAW\n"
+"POT-Creation-Date: 2013-11-06 18:01+0700\n"
+"PO-Revision-Date: 2013-11-06 18:01+0700\n"
+"Last-Translator: \n"
+"Language-Team: WaveThemes <contact@wave-themes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:9
+msgid "Page Not Found"
+msgstr ""
+
+#: ../archive-portfolio.php:18
+msgid "Older Projects"
+msgstr ""
+
+#: ../archive-portfolio.php:19
+msgid "Newer Projects"
+msgstr ""
+
+#: ../archive.php:9
+msgid "Archive for the"
+msgstr ""
+
+#: ../archive.php:9
+msgid "Category"
+msgstr ""
+
+#: ../archive.php:11
+msgid "Posts Tagged"
+msgstr ""
+
+#: ../archive.php:13 ../archive.php:15 ../archive.php:17
+msgid "Archive for"
+msgstr ""
+
+#: ../archive.php:13
+msgid "F jS, Y"
+msgstr ""
+
+#: ../archive.php:15
+msgid "F, Y"
+msgstr ""
+
+#: ../archive.php:17
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:19
+msgid "Author Archive"
+msgstr ""
+
+#: ../archive.php:21
+msgid "Blog Archives"
+msgstr ""
+
+#: ../comments.php:2
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:6
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:6
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:6
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:25
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:30
+#, php-format
+msgid "Leave a comment to %s"
+msgstr ""
+
+#: ../comments.php:36
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:41
+msgid "Logged in as"
+msgstr ""
+
+#: ../comments.php:44
+msgid "Log out"
+msgstr ""
+
+#: ../comments.php:50
+#: ../include/options/fields/color_named/field_color_named.php:33
+#: ../include/options/sections/shortcodes.php:32
+#: ../include/options/sections/team.php:16
+#: ../woocommerce/single-product-reviews.php:62
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:59 ../woocommerce/single-product-reviews.php:64
+#: ../woocommerce/myaccount/form-login.php:78
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:65
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:76
+msgid "Submit Comment"
+msgstr ""
+
+#: ../functions.php:214
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../functions.php:215
+msgid "Header Top Left"
+msgstr ""
+
+#: ../functions.php:216
+msgid "Header Top Right"
+msgstr ""
+
+#: ../functions.php:217 ../include/options/sections/footer.php:6
+msgid "Footer"
+msgstr ""
+
+#: ../functions.php:311
+msgid "The sample data was already imported previously."
+msgstr ""
+
+#: ../functions.php:318
+msgid "An error occured when importing the sample data..."
+msgstr ""
+
+#: ../functions.php:401
+msgid "Setup Permalinks"
+msgstr ""
+
+#: ../functions.php:1014
+msgid "Gravity Forms - "
+msgstr ""
+
+#: ../functions.php:1023
+msgid "Contact Form 7 - "
+msgstr ""
+
+#: ../functions.php:1044
+msgid "None (hides button)"
+msgstr ""
+
+#: ../functions.php:1049
+msgid "Inherit (Theme Options)"
+msgstr ""
+
+#: ../functions.php:1089
+msgid "Show Section Title"
+msgstr ""
+
+#: ../functions.php:1092
+msgid "Whether to show the title at the top of the page."
+msgstr ""
+
+#: ../functions.php:1098 ../include/options/sections/blog.php:28
+#: ../include/options/sections/comments.php:16
+#: ../include/options/sections/comments.php:26
+#: ../include/options/sections/cta-popup.php:19
+#: ../include/options/sections/cta-popup.php:29
+#: ../include/options/sections/forms.php:16
+#: ../include/options/sections/forms.php:50
+#: ../include/options/sections/forms.php:72
+#: ../include/options/sections/forms.php:94
+#: ../include/options/sections/portfolio.php:16
+#: ../include/options/sections/shop.php:32
+#: ../include/options/sections/shortcodes.php:65
+#: ../include/options/sections/shortcodes.php:87
+#: ../include/options/sections/shortcodes.php:109
+#: ../include/options/sections/shortcodes.php:131
+#: ../include/options/sections/shortcodes.php:211
+#: ../include/options/sections/tables.php:52
+#: ../include/options/sections/tables.php:74
+#: ../include/options/sections/tables.php:182
+#: ../include/options/sections/tabs-toggles.php:38
+#: ../include/options/sections/tabs-toggles.php:86
+#: ../include/options/sections/team.php:38
+msgid "Background Color"
+msgstr ""
+
+#: ../functions.php:1101
+msgid ""
+"With this option you set a custom background color for the page. (Optional)"
+msgstr ""
+
+#: ../functions.php:1107 ../functions.php:1196
+msgid "Background Image"
+msgstr ""
+
+#: ../functions.php:1110
+msgid "Here you can select a background image. (Optional)"
+msgstr ""
+
+#: ../functions.php:1117 ../functions.php:1182
+msgid "Use Parallax"
+msgstr ""
+
+#: ../functions.php:1119 ../functions.php:1184
+msgid ""
+"Enable/disable this to the use a parallax effect for the background image."
+msgstr ""
+
+#: ../functions.php:1131 ../include/options/sections/forms.php:33
+msgid "Slider"
+msgstr ""
+
+#: ../functions.php:1134
+msgid "Select a slider that will be shown at the top of the page. (Optional)"
+msgstr ""
+
+#: ../functions.php:1137 ../functions.php:1148
+msgid "Select an Item"
+msgstr ""
+
+#: ../functions.php:1142 ../include/options/sections/header.php:14
+#: ../include/options/sections/header.php:27
+msgid "Call To Action"
+msgstr ""
+
+#: ../functions.php:1145
+msgid ""
+"Select a Call to Action that will be shown in the header. By default the "
+"settings from the Theme Options will be used. (Optional)"
+msgstr ""
+
+#: ../functions.php:1156
+msgid "Settings"
+msgstr ""
+
+#: ../functions.php:1169
+msgid "Separator"
+msgstr ""
+
+#: ../functions.php:1175
+msgid "Enable Separator"
+msgstr ""
+
+#: ../functions.php:1177
+msgid ""
+"Enable/disable this to show or hide the separator below the page section."
+msgstr ""
+
+#: ../functions.php:1189
+msgid "Show Pattern"
+msgstr ""
+
+#: ../functions.php:1191
+msgid ""
+"Enable/disable this to show or hide the pattern that will cover the "
+"background image."
+msgstr ""
+
+#: ../functions.php:1199
+msgid ""
+"Here you can choose a background image that will be used in the separator."
+msgstr ""
+
+#: ../functions.php:1203
+msgid "Content"
+msgstr ""
+
+#: ../functions.php:1206
+msgid ""
+"With this editor you can add the content that will be shown within the "
+"separator."
+msgstr ""
+
+#: ../functions.php:1222
+msgid "Project Details"
+msgstr ""
+
+#: ../functions.php:1226
+msgid "Project URL"
+msgstr ""
+
+#: ../functions.php:1228 ../functions.php:1331
+msgid "(Optional)"
+msgstr ""
+
+#: ../functions.php:1229
+msgid "Enter the project URL."
+msgstr ""
+
+#: ../functions.php:1233
+msgid "Project Images"
+msgstr ""
+
+#: ../functions.php:1236
+msgid "Select or upload the project related images."
+msgstr ""
+
+#: ../functions.php:1245
+msgid "Team Member"
+msgstr ""
+
+#: ../functions.php:1252 ../include/options/sections/team.php:22
+#: ../library/Wave/Widget/RecentPosts.php:72
+#: ../library/Wave/Widget/RecentProjects.php:72
+msgid "Title"
+msgstr ""
+
+#: ../functions.php:1254
+msgid "For example: Director, Designer, Manager, etc..."
+msgstr ""
+
+#: ../functions.php:1259 ../include/options/sections/team.php:28
+msgid "Description"
+msgstr ""
+
+#: ../functions.php:1261
+msgid "Tell something about the team member."
+msgstr ""
+
+#: ../functions.php:1271 ../include/options/sections/social-media.php:22
+msgid "Social Media"
+msgstr ""
+
+#: ../functions.php:1278
+msgid "Facebook URL (Optional)"
+msgstr ""
+
+#: ../functions.php:1281 ../functions.php:1288 ../functions.php:1295
+#: ../functions.php:1302
+msgid "Leave empty if you don't intend to use this."
+msgstr ""
+
+#: ../functions.php:1285
+msgid "Google Plus URL (Optional)"
+msgstr ""
+
+#: ../functions.php:1292
+msgid "Twitter URL (Optional)"
+msgstr ""
+
+#: ../functions.php:1299
+msgid "LinkedIn URL (Optional)"
+msgstr ""
+
+#: ../functions.php:1311
+msgid "Button"
+msgstr ""
+
+#: ../functions.php:1317 ../functions.php:1322
+msgid "Button Text"
+msgstr ""
+
+#: ../functions.php:1319
+msgid "Text description"
+msgstr ""
+
+#: ../functions.php:1320
+msgid "Enter the the text that will be displayed within the button."
+msgstr ""
+
+#: ../functions.php:1325
+msgid "Button Icon"
+msgstr ""
+
+#: ../functions.php:1330
+msgid "Select an icon that will be shown at the left hand side of the button."
+msgstr ""
+
+#: ../functions.php:1340
+msgid "Popup"
+msgstr ""
+
+#: ../functions.php:1346
+msgid "Popup Heading"
+msgstr ""
+
+#: ../functions.php:1348
+msgid "Enter the text that should be used as the popup's heading."
+msgstr ""
+
+#: ../functions.php:1350 ../include/options/sections/cta-popup.php:35
+#: ../include/options/sections/shortcodes.php:217
+#: ../include/options/sections/tables.php:46
+#: ../include/options/sections/tables.php:132
+msgid "Heading"
+msgstr ""
+
+#: ../functions.php:1353
+msgid "Popup Sub-Heading"
+msgstr ""
+
+#: ../functions.php:1355
+msgid ""
+"This is the smaller text that will be displayed below the popup's heading."
+msgstr ""
+
+#: ../functions.php:1357
+msgid "Sub-heading"
+msgstr ""
+
+#: ../functions.php:1360
+msgid "Popup Width"
+msgstr ""
+
+#: ../functions.php:1362
+msgid "Enter the width of the popup."
+msgstr ""
+
+#: ../functions.php:1367
+msgid "Popup Form"
+msgstr ""
+
+#: ../functions.php:1372
+msgid "Select the form that you wish to display in the popup."
+msgstr ""
+
+#: ../functions.php:1373
+msgid "Select a form"
+msgstr ""
+
+#: ../functions.php:1598 ../library/TGM/Plugin/Activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:1599 ../library/TGM/Plugin/Activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:1600 ../library/TGM/Plugin/Activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:1601
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:1612 ../library/TGM/Plugin/Activation.php:178
+#: ../library/TGM/Plugin/Activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:1613 ../library/TGM/Plugin/Activation.php:179
+#: ../library/TGM/Plugin/Activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:1614
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions.php:2125 ../woocommerce/single-product/review.php:36
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:2128
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:2141
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:2272
+#, php-format
+msgid "<a class=\"button thickbox\" href=\"%s\">%s</a>"
+msgstr ""
+
+#: ../index.php:7 ../include/options/sections/blog.php:6
+msgid "Blog"
+msgstr ""
+
+#: ../index.php:33 ../tag.php:28
+msgid "Older Posts"
+msgstr ""
+
+#: ../index.php:34 ../tag.php:30
+msgid "Newer Posts"
+msgstr ""
+
+#: ../search.php:8
+msgid "Results For"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: ../searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: ../sidebar.php:4
+msgid "Archives"
+msgstr ""
+
+#: ../sidebar.php:8
+msgid "Subscribe"
+msgstr ""
+
+#: ../sidebar.php:10
+msgid "Entries (RSS)"
+msgstr ""
+
+#: ../sidebar.php:11
+msgid "Comments (RSS)"
+msgstr ""
+
+#: ../tag.php:6
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: ../include/meta-box/inc/classes/meta-box.php:252
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../include/meta-box/inc/classes/meta-box.php:432
+msgid "+"
+msgstr ""
+
+#: ../include/meta-box/inc/classes/meta-box.php:454
+msgid "&#8211;"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/button.php:36
+msgid "Click me"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/file-advanced.php:66
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/file-advanced.php:102
+#: ../include/meta-box/inc/fields/file.php:138
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/file-advanced.php:103
+#: ../include/meta-box/inc/fields/file.php:139
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/file.php:84
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/file.php:85
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/image-advanced.php:71
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/image-advanced.php:107
+#: ../include/meta-box/inc/fields/image.php:144
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/image-advanced.php:108
+#: ../include/meta-box/inc/fields/image.php:145
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/image.php:64
+msgid "Order saved"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/image.php:78
+#: ../include/meta-box/inc/fields/thickbox-image.php:35
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/image.php:79
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/plupload-image.php:104
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/plupload-image.php:105
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/plupload-image.php:106
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/plupload-image.php:181
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/post.php:54
+msgid "Post"
+msgstr ""
+
+#: ../include/meta-box/inc/fields/post.php:68
+#: ../include/meta-box/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: ../include/options/defaults.php:55 ../include/options/defaults.php:57
+msgid "Options"
+msgstr ""
+
+#: ../include/options/defaults.php:249 ../include/options/defaults.php:671
+msgid "Import / Export"
+msgstr ""
+
+#: ../include/options/defaults.php:257 ../include/options/defaults.php:699
+#: ../include/options/defaults.php:779
+msgid "Dev Mode Info"
+msgstr ""
+
+#: ../include/options/defaults.php:310
+msgid "Are you sure? You will lose all custom values."
+msgstr ""
+
+#: ../include/options/defaults.php:624
+msgid "Save Settings"
+msgstr ""
+
+#: ../include/options/defaults.php:632
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: ../include/options/defaults.php:634
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: ../include/options/defaults.php:639
+msgid "<strong>Settings have changed, you should save them!</strong>"
+msgstr ""
+
+#: ../include/options/defaults.php:640
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: ../include/options/defaults.php:641
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: ../include/options/defaults.php:717
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../include/options/defaults.php:718
+msgid "Import Options"
+msgstr ""
+
+#: ../include/options/defaults.php:719
+msgid "Import from file"
+msgstr ""
+
+#: ../include/options/defaults.php:719
+msgid "Import from URL"
+msgstr ""
+
+#: ../include/options/defaults.php:724
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../include/options/defaults.php:734
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../include/options/defaults.php:741
+msgid "Import"
+msgstr ""
+
+#: ../include/options/defaults.php:741
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../include/options/defaults.php:744
+msgid "Export Options"
+msgstr ""
+
+#: ../include/options/defaults.php:746
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../include/options/defaults.php:749
+msgid "Copy"
+msgstr ""
+
+#: ../include/options/defaults.php:753
+msgid "Copy Link"
+msgstr ""
+
+#: ../include/options/options.php:17
+msgid "<p></p>"
+msgstr ""
+
+#: ../include/options/options.php:31 ../include/options/options.php:32
+msgid "Theme Options"
+msgstr ""
+
+#: ../include/options/options.php:36
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../include/options/options.php:120
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../include/options/options.php:121
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../include/options/options.php:122
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../include/options/options.php:128
+msgid "Theme Information"
+msgstr ""
+
+#: ../include/options/options.php:137
+msgid "Documentation"
+msgstr ""
+
+#: ../include/options/fields/color_gradient/field_color_gradient.php:28
+#: ../include/options/fields/color_gradient/field_color_gradient.php:33
+msgid "From:"
+msgstr ""
+
+#: ../include/options/fields/color_gradient/field_color_gradient.php:29
+msgid "To:"
+msgstr ""
+
+#: ../include/options/fields/color_gradient/field_color_gradient.php:35
+msgid " To:"
+msgstr ""
+
+#: ../include/options/fields/color_named/field_color_named.php:48
+#: ../include/options/fields/style_text/field_style_text.php:32
+#: ../include/options/sections/portfolio.php:32
+#: ../include/options/sections/shop.php:85
+#: ../include/options/sections/shortcodes.php:204
+msgid "Color"
+msgstr ""
+
+#: ../include/options/fields/google_maps_locations/field_google_maps_locations.php:29
+msgid "Latitude"
+msgstr ""
+
+#: ../include/options/fields/google_maps_locations/field_google_maps_locations.php:30
+msgid "Longitude"
+msgstr ""
+
+#: ../include/options/fields/google_maps_locations/field_google_maps_locations.php:31
+msgid "Info"
+msgstr ""
+
+#: ../include/options/fields/multi_text/field_multi_text.php:31
+#: ../include/options/fields/multi_text/field_multi_text.php:35
+#: ../include/options/fields/multi_text/field_multi_text.php:38
+msgid "Remove"
+msgstr ""
+
+#: ../include/options/fields/multi_text/field_multi_text.php:40
+msgid "Add More"
+msgstr ""
+
+#: ../include/options/fields/style_text/field_style_text.php:51
+msgid "Font"
+msgstr ""
+
+#: ../include/options/fields/style_text/field_style_text.php:70
+msgid "Size"
+msgstr ""
+
+#: ../include/options/fields/style_text/field_style_text.php:76
+#: ../include/options/sections/buttons.php:53
+#: ../include/options/sections/buttons.php:67
+#: ../include/options/sections/buttons.php:90
+#: ../include/options/sections/buttons.php:102
+#: ../include/options/sections/buttons.php:125
+#: ../include/options/sections/buttons.php:137
+#: ../include/options/sections/buttons.php:206
+#: ../include/options/sections/forms.php:80
+#: ../include/options/sections/header.php:102
+#: ../include/options/sections/shortcodes.php:50
+#: ../include/options/sections/shortcodes.php:161
+#: ../include/options/sections/tables.php:18
+#: ../include/options/sections/tables.php:98
+msgid "pixels"
+msgstr ""
+
+#: ../include/options/fields/upload/field_upload.php:30
+msgid "Upload"
+msgstr ""
+
+#: ../include/options/fields/upload/field_upload.php:31
+msgid "Remove Upload"
+msgstr ""
+
+#: ../include/options/sections/blog.php:7
+#: ../include/options/sections/shop.php:7
+msgid ""
+"<p class=\"description\">This tab contains all settings regarding blog "
+"posts, blog dialogs and the blog shortcode.</p>"
+msgstr ""
+
+#: ../include/options/sections/blog.php:11
+msgid "Basic Blog Settings"
+msgstr ""
+
+#: ../include/options/sections/blog.php:16
+#: ../include/options/sections/shop.php:16
+msgid "Show Sidebar"
+msgstr ""
+
+#: ../include/options/sections/blog.php:17
+msgid ""
+"This option allows you to enable/disable the sidebar that will show on the "
+"right hand-side of the blog pages."
+msgstr ""
+
+#: ../include/options/sections/blog.php:23
+msgid "Mouse Over Style"
+msgstr ""
+
+#: ../include/options/sections/blog.php:29
+msgid ""
+"Here you can specify the background color that will be used when you move "
+"your cursor over the images of the shortcode's blogs items."
+msgstr ""
+
+#: ../include/options/sections/blog.php:34
+#: ../include/options/sections/portfolio.php:22
+msgid "Icon &amp; Text"
+msgstr ""
+
+#: ../include/options/sections/blog.php:35
+msgid ""
+"Here you can specify the icon color and text style that will be used when "
+"you move your cursor over the images of the shortcode's blogs items."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:6
+msgid "Buttons"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:7
+msgid ""
+"<p class=\"description\">Here you will find all options regarding the "
+"buttons that are used throughout the theme.<br/>Please read the descriptions "
+"of each option to find out what they are for.</p>"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:11
+msgid "Buttons Style"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:16
+msgid "Button Type"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:17
+msgid ""
+"This option allows you to choose whether you would like the 3D or 2D button "
+"type as the default button type."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:19
+msgid "3D"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:20
+msgid "2D"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:27
+msgid "Primary Button Color"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:28
+msgid ""
+"Here you can select the color for the primary button. The primary button "
+"style is used when the button style is not defined."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:34
+msgid "Secondary Button Color"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:35
+msgid "This is the color that is used for the secondary button style."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:40
+msgid "Small Buttons"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:45
+msgid "Small Button Label"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:46
+msgid ""
+"A button label contains the text that appears within small buttons. Here you "
+"can change the color, font and size of the label."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:51
+msgid "Small Button Roundness"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:52
+msgid ""
+"Here you can change to roundness or softness of the corners of small buttons."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:65
+msgid "Small Button Shadow"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:66
+msgid ""
+"The small button has a small shadow to create the 3D effect. With this "
+"feature you can increase or decrease the size of the shadow."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:77
+msgid "Large Buttons"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:82
+msgid "Large Button Label"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:83
+msgid ""
+"A button label contains the text that appears within large buttons. Here you "
+"can change the color, font and size of the label."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:88
+msgid "Large Button Roundness"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:89
+msgid ""
+"Here you can change to roundness or softness of the corners of large buttons."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:100
+msgid "Large Button Shadow"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:101
+msgid ""
+"The large button has a small shadow to create the 3D effect. With this "
+"feature you can increase or decrease the size of the shadow."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:112
+msgid "Alt Buttons"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:117
+msgid "Alt Button Label"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:118
+msgid ""
+"A button label contains the text that appears within Alt Buttons. Here you "
+"can change the color, font and size of the label."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:123
+msgid "Alt Button Roundness"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:124
+msgid ""
+"Here you can change to roundness or softness of the corners of Alt Buttons."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:135
+msgid "Alt Button Border Thickness"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:136
+msgid "Here you can change the border (outline) thickness of the Alt Buttons."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:148
+msgid "Alt Button Border Color"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:149
+msgid "Here you can change the border color of the Alt Buttons."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:154
+msgid "Alt Button Mouse Over Color"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:155
+msgid ""
+"Here you can select the color you'd like to use when you move your cursor "
+"over the Alt Buttons."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:159
+msgid "Plain Buttons"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:164
+msgid "Plain Button Label"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:165
+msgid ""
+"A button label contains the text that appears within Plain Buttons. Here you "
+"can change the color, font and size of the label."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:170
+msgid "Plain Button Background Color"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:171
+msgid "Here you can select the background color for the Plain Buttons."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:176
+msgid "Plain Button Mouse Over Color"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:177
+msgid ""
+"Here you can select the color for when you move your cursor over the Plain "
+"Buttons."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:182
+msgid "Plain Button Mouse Over Background Color"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:183
+msgid ""
+"Here you can select the background color for when you move your cursor over "
+"the Plain Buttons."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:187
+msgid "UI Buttons"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:192
+msgid "UI Button Label"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:193
+msgid ""
+"A button label contains the text that appears within UI Buttons. Here you "
+"can change the color, font and size of the label."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:198
+msgid "UI Button Label Shadow Color"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:199
+msgid ""
+"Here you can select the color you'd like to use for the text shadow that "
+"adds the depth effect in the UI Buttons."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:204
+msgid "UI Button Roundness"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:205
+msgid ""
+"Here you can change the UI Button's roundness or softness of the corners."
+msgstr ""
+
+#: ../include/options/sections/buttons.php:216
+msgid "UI Button Background Color"
+msgstr ""
+
+#: ../include/options/sections/buttons.php:217
+msgid ""
+"Here you can set the background color that you'd like to use for the UI "
+"Buttons."
+msgstr ""
+
+#: ../include/options/sections/color-presets.php:7
+msgid "Style Presets"
+msgstr ""
+
+#: ../include/options/sections/color-presets.php:8
+msgid ""
+"<p class=\"description\">Select a preset to change all colors and fonts "
+"according to the selected preset.</p>"
+msgstr ""
+
+#: ../include/options/sections/color-presets.php:13
+msgid " Style Presets"
+msgstr ""
+
+#: ../include/options/sections/color-presets.php:14
+msgid ""
+"Style presets can assist you in rapidly changing the style to those of the "
+"preset.<br/><br/>This option is specifically useful when you want to use a "
+"style you have seen in a demo or if you wish to use it as base to get "
+"started with your own style.<br/><br/>If you are just getting started with "
+"building your website and haven't made any style changes to the theme, you "
+"can always try a few of the presets to see if you any of the presets is to "
+"your liking.<br/><br/>To apply a preset style, select one of the options on "
+"your right hand-side and click on Save Settings to apply the selected preset."
+msgstr ""
+
+#: ../include/options/sections/color-presets.php:15
+msgid ""
+"<strong>WARNING: This will overwrite all options with colors and fonts!</"
+"strong><br/>Press Save Settings after selecting a preset to apply the "
+"selected preset."
+msgstr ""
+
+#: ../include/options/sections/colors.php:13
+msgid "Color "
+msgstr ""
+
+#: ../include/options/sections/colors.php:21
+msgid "Colors"
+msgstr ""
+
+#: ../include/options/sections/colors.php:22
+msgid ""
+"<p class=\"description\">This is the Description. Again HTML is allowed</p>"
+msgstr ""
+
+#: ../include/options/sections/comments.php:6
+#: ../include/options/sections/comments.php:11
+msgid "Comment Area"
+msgstr ""
+
+#: ../include/options/sections/comments.php:7
+#: ../include/options/sections/cta-popup.php:10
+msgid "<p class=\"description\">This needs a description.</p>"
+msgstr ""
+
+#: ../include/options/sections/comments.php:17
+msgid ""
+"Here you can set the background color of the comments area. Make sure you "
+"provide enough contrast with the body background color and the background "
+"color of the comment items."
+msgstr ""
+
+#: ../include/options/sections/comments.php:21
+msgid "Comment Items"
+msgstr ""
+
+#: ../include/options/sections/comments.php:27
+msgid "Here you can set the background color of the the content items."
+msgstr ""
+
+#: ../include/options/sections/comments.php:32
+#: ../include/options/sections/tables.php:64
+#: ../include/options/sections/tables.php:86
+#: ../include/options/sections/tables.php:194
+#: ../include/options/sections/tabs-toggles.php:44
+#: ../include/options/sections/tabs-toggles.php:92
+#: ../include/options/sections/typography.php:16
+msgid "Body Text"
+msgstr ""
+
+#: ../include/options/sections/comments.php:33
+msgid ""
+"Here you can set the body text style that will be used within the comment "
+"items."
+msgstr ""
+
+#: ../include/options/sections/comments.php:38
+msgid "Author Text"
+msgstr ""
+
+#: ../include/options/sections/comments.php:39
+msgid ""
+"Here you can set the text style that will be used for the comment's author."
+msgstr ""
+
+#: ../include/options/sections/comments.php:44
+msgid "Date Text"
+msgstr ""
+
+#: ../include/options/sections/comments.php:45
+msgid ""
+"Here you can set the text style that will be used for the date and time in "
+"the comment item."
+msgstr ""
+
+#: ../include/options/sections/contact.php:6
+msgid "Contact Map"
+msgstr ""
+
+#: ../include/options/sections/contact.php:7
+msgid ""
+"<p class=\"description\">The contact map is the map that is intended for a "
+"contact page. Whenever you use a map shortcode without defining any "
+"attributes, the options delow will be used to render the map.</p>"
+msgstr ""
+
+#: ../include/options/sections/contact.php:11
+msgid "Map Zoom"
+msgstr ""
+
+#: ../include/options/sections/contact.php:21
+msgid "Map Zoom Level"
+msgstr ""
+
+#: ../include/options/sections/contact.php:22
+msgid ""
+"Here you can define the initial zoom level that the map should use, before "
+"the user alters the zoom level."
+msgstr ""
+
+#: ../include/options/sections/contact.php:23
+msgid "(1 = Earth level, 18 = Street level)"
+msgstr ""
+
+#: ../include/options/sections/contact.php:28
+msgid "Enable Map Zoom Feature"
+msgstr ""
+
+#: ../include/options/sections/contact.php:29
+msgid ""
+"With this option you can enable or disable the user's ability to change the "
+"zoom level."
+msgstr ""
+
+#: ../include/options/sections/contact.php:34
+msgid "Map Center"
+msgstr ""
+
+#: ../include/options/sections/contact.php:39
+msgid "Map Center Latitude"
+msgstr ""
+
+#: ../include/options/sections/contact.php:40
+msgid ""
+"Enter the latitude decimal value for the map's center.<br/><br/>You can use "
+"<a href=\"http://www.mapseasy.com/adress-to-gps-coordinates.php\" target="
+"\"_blank\">MapsEasy.com</a> to covert an address or location to coordinates."
+msgstr ""
+
+#: ../include/options/sections/contact.php:45
+msgid "Map Center Longitude"
+msgstr ""
+
+#: ../include/options/sections/contact.php:46
+msgid ""
+"Enter the longitude decimal value for the map's center.<br/><br/>You can use "
+"<a href=\"http://www.mapseasy.com/adress-to-gps-coordinates.php\" target="
+"\"_blank\">MapsEasy.com</a> to covert an address or location to coordinates."
+msgstr ""
+
+#: ../include/options/sections/contact.php:50
+#: ../include/options/sections/contact.php:61
+msgid "Markers"
+msgstr ""
+
+#: ../include/options/sections/contact.php:55
+msgid "Marker Image"
+msgstr ""
+
+#: ../include/options/sections/contact.php:56
+msgid ""
+"Here you can upload/select a custom marker image.<br/><br/>Please note that "
+"the marker you upload will not be resized, so you will have to upload the "
+"custom marker image at the size you wish to display it."
+msgstr ""
+
+#: ../include/options/sections/contact.php:62
+msgid ""
+"You can add as many markers as you like.<br/><br/>Please not that you will "
+"need to make sure that the Map Zoom Level and Map Center are combined in way "
+"that you will be able to see the markers that you add here.<br/><br/>You can "
+"use <a href=\"http://www.mapseasy.com/adress-to-gps-coordinates.php\" target="
+"\"_blank\">MapsEasy.com</a> to covert an address or location to coordinates."
+msgstr ""
+
+#: ../include/options/sections/cta-popup.php:9
+msgid "Call to Action"
+msgstr ""
+
+#: ../include/options/sections/cta-popup.php:14
+msgid "Popup Background"
+msgstr ""
+
+#: ../include/options/sections/cta-popup.php:20
+msgid ""
+"Here you can select the color that should be used for the background of the "
+"call to action popups."
+msgstr ""
+
+#: ../include/options/sections/cta-popup.php:24
+msgid "Popup Header"
+msgstr ""
+
+#: ../include/options/sections/cta-popup.php:30
+msgid ""
+"Here you can select the background color of the call to action popup's "
+"header."
+msgstr ""
+
+#: ../include/options/sections/cta-popup.php:36
+msgid ""
+"Here you can set the style of the heading that will be used in the call to "
+"action popup's header."
+msgstr ""
+
+#: ../include/options/sections/cta-popup.php:41
+msgid "Sub Heading"
+msgstr ""
+
+#: ../include/options/sections/cta-popup.php:42
+msgid ""
+"Here you can set the style of the sub-heading that will be used in the call "
+"to action popup's header."
+msgstr ""
+
+#: ../include/options/sections/fonts.php:5
+msgid "Fonts"
+msgstr ""
+
+#: ../include/options/sections/fonts.php:6
+msgid ""
+"<p class=\"description\">Within this tab you can select the fonts you would "
+"like to use in your website. Selecting or deselecting fonts can be done by "
+"clicking the fonts.<br/><br/>Make sure to save this page before trying to "
+"use any of the newly selected fonts.</p>"
+msgstr ""
+
+#: ../include/options/sections/fonts.php:10
+#: ../include/options/sections/fonts.php:15
+msgid "Google Fonts"
+msgstr ""
+
+#: ../include/options/sections/fonts.php:16
+msgid ""
+"Within this tab you can select the fonts you would like to use in your "
+"website. Selecting or deselecting fonts can be done by clicking the fonts."
+"<br/><br/>Make sure to save this page before trying to use any of the newly "
+"selected fonts."
+msgstr ""
+
+#: ../include/options/sections/footer.php:7
+msgid ""
+"<p class=\"description\">This tab contains all options for for the Footer "
+"Section of the Theme.</p>"
+msgstr ""
+
+#: ../include/options/sections/footer.php:11
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../include/options/sections/footer.php:16
+msgid "Footer Widget Text &amp; Links"
+msgstr ""
+
+#: ../include/options/sections/footer.php:17
+msgid ""
+"This is the text that is used in widgets like the Text Widget and the links "
+"of the widgets. You can change the color, font and size."
+msgstr ""
+
+#: ../include/options/sections/footer.php:22
+msgid "Footer Widget Link Mouse Over Color"
+msgstr ""
+
+#: ../include/options/sections/footer.php:23
+msgid ""
+"When you move your cursor over the links in widgets, this color will be used."
+msgstr ""
+
+#: ../include/options/sections/footer.php:28
+msgid "Footer Widget Headings"
+msgstr ""
+
+#: ../include/options/sections/footer.php:29
+msgid ""
+"This is the style that will be used for the headings of the footer widgets."
+msgstr ""
+
+#: ../include/options/sections/footer.php:34
+msgid "Footer Widget Area Background Color"
+msgstr ""
+
+#: ../include/options/sections/footer.php:35
+msgid ""
+"This options allows you to change the background color of the footer widget "
+"area."
+msgstr ""
+
+#: ../include/options/sections/footer.php:39
+msgid "Copyright Bar"
+msgstr ""
+
+#: ../include/options/sections/footer.php:44
+msgid "Copyright Text"
+msgstr ""
+
+#: ../include/options/sections/footer.php:45
+msgid ""
+"Here you can change the style of the texts in the copyright bar. This "
+"includes the menu items of the menu on the right hand-size of the copyright "
+"text. You can change the color, font and size."
+msgstr ""
+
+#: ../include/options/sections/footer.php:50
+msgid "Copyright Links Mouse Over Color"
+msgstr ""
+
+#: ../include/options/sections/footer.php:51
+msgid ""
+"Here you can select the color that wil be used for the copyright links when "
+"you move your cursor over the links."
+msgstr ""
+
+#: ../include/options/sections/footer.php:56
+msgid "Copyright"
+msgstr ""
+
+#: ../include/options/sections/footer.php:57
+msgid ""
+"Here you can enter the text that contains your copyright.<br/><br/>For "
+"example: &copy; Envato Pty Ltd. "
+msgstr ""
+
+#: ../include/options/sections/footer.php:64
+msgid "Copyright Bar Background Color"
+msgstr ""
+
+#: ../include/options/sections/footer.php:65
+msgid "Here you can change the Copyright Bar's background color."
+msgstr ""
+
+#: ../include/options/sections/footer.php:69
+msgid "Copyright Bar - Social Media"
+msgstr ""
+
+#: ../include/options/sections/footer.php:74
+msgid "Social Media Icon Color"
+msgstr ""
+
+#: ../include/options/sections/footer.php:75
+msgid ""
+"This option is for the color of the social media icons on the Copyright Bar."
+msgstr ""
+
+#: ../include/options/sections/footer.php:80
+msgid "Social Media Icon Mouse Over Color"
+msgstr ""
+
+#: ../include/options/sections/footer.php:81
+msgid ""
+"When you move your cursor over the social media icons on the Copyright Bar, "
+"the color your select here will be used."
+msgstr ""
+
+#: ../include/options/sections/forms.php:6
+msgid "Forms"
+msgstr ""
+
+#: ../include/options/sections/forms.php:7
+#: ../include/options/sections/shortcodes.php:7
+#: ../include/options/sections/tabs-toggles.php:7
+msgid ""
+"<p class=\"description\">All of the options below have something to do with "
+"the appearance of the theme's visual aspects.</p>"
+msgstr ""
+
+#: ../include/options/sections/forms.php:11
+msgid "Text Field"
+msgstr ""
+
+#: ../include/options/sections/forms.php:17
+msgid "Here you can change the background color of the text fields."
+msgstr ""
+
+#: ../include/options/sections/forms.php:22
+msgid "Focus Background Color"
+msgstr ""
+
+#: ../include/options/sections/forms.php:23
+msgid ""
+"Here you can change the background color for when you place your cursor "
+"within the text fields."
+msgstr ""
+
+#: ../include/options/sections/forms.php:28
+#: ../include/options/sections/forms.php:60
+#: ../include/options/sections/forms.php:100
+#: ../include/options/sections/shop.php:92
+#: ../include/options/sections/shortcodes.php:77
+#: ../include/options/sections/shortcodes.php:99
+#: ../include/options/sections/shortcodes.php:121
+#: ../include/options/sections/shortcodes.php:143
+#: ../include/options/sections/tabs-toggles.php:16
+#: ../include/options/sections/tabs-toggles.php:64
+msgid "Text"
+msgstr ""
+
+#: ../include/options/sections/forms.php:29
+msgid ""
+"Here you can change the style of the text within the text fields. The style "
+"of the text remains the same when you place your cursor within the text "
+"fields. So you will need to make sure there is enough contrast between text "
+"and both background colors."
+msgstr ""
+
+#: ../include/options/sections/forms.php:38
+msgid "Handle Color"
+msgstr ""
+
+#: ../include/options/sections/forms.php:39
+msgid ""
+"The handles of the slider are the little circular button which allow you to "
+"change the values. With this option you can change the color of the handles."
+msgstr ""
+
+#: ../include/options/sections/forms.php:44
+msgid "Range Color"
+msgstr ""
+
+#: ../include/options/sections/forms.php:45
+msgid ""
+"The range of the slider is the area between the minimum and maximum handles. "
+"With this option you can set the color the range indicator should have."
+msgstr ""
+
+#: ../include/options/sections/forms.php:51
+msgid "Here you can select the background color of the slider."
+msgstr ""
+
+#: ../include/options/sections/forms.php:55
+msgid "Select - Button"
+msgstr ""
+
+#: ../include/options/sections/forms.php:61
+msgid "Here you can set the text style of the select button's text."
+msgstr ""
+
+#: ../include/options/sections/forms.php:66
+msgid "Text Shadow Color"
+msgstr ""
+
+#: ../include/options/sections/forms.php:67
+msgid "Here you can select the color of the select button's text shadow."
+msgstr ""
+
+#: ../include/options/sections/forms.php:73
+msgid ""
+"Here you can select the background color that should be used for the "
+"background color of the select buttons."
+msgstr ""
+
+#: ../include/options/sections/forms.php:78
+#: ../include/options/sections/shortcodes.php:48
+msgid "Roundness"
+msgstr ""
+
+#: ../include/options/sections/forms.php:79
+msgid ""
+"Here you can set the roundness or softness of the corners of the select "
+"buttons."
+msgstr ""
+
+#: ../include/options/sections/forms.php:89
+msgid "Select - Drop Down"
+msgstr ""
+
+#: ../include/options/sections/forms.php:95
+msgid ""
+"Here you can select the background color that you'd like to use for the "
+"select drop down."
+msgstr ""
+
+#: ../include/options/sections/forms.php:101
+msgid "Here you can set the style of the text items within the drop down."
+msgstr ""
+
+#: ../include/options/sections/forms.php:106
+msgid "Mouse Over Background Color"
+msgstr ""
+
+#: ../include/options/sections/forms.php:107
+msgid ""
+"Here you can set the background color for when you move your cursor over the "
+"drop down text items."
+msgstr ""
+
+#: ../include/options/sections/forms.php:112
+#: ../include/options/sections/tabs-toggles.php:22
+#: ../include/options/sections/tabs-toggles.php:70
+msgid "Text Mouse Over Color"
+msgstr ""
+
+#: ../include/options/sections/forms.php:113
+msgid ""
+"Here you can select the color of the drop down text items for when you move "
+"your cursor over the text items."
+msgstr ""
+
+#: ../include/options/sections/general.php:7
+#: ../include/options/sections/team.php:11
+msgid "General"
+msgstr ""
+
+#: ../include/options/sections/general.php:8
+#: ../include/options/sections/setup-guide.php:13
+msgid ""
+"<p class=\"description\">Welcome the RAW Theme options panel! You can use "
+"the tabs on your left hand-side to navigate through the options.<br/><br/"
+">You can find the documentation for this theme in the Documentation tab at "
+"the bottom of the tabs.</p>"
+msgstr ""
+
+#: ../include/options/sections/general.php:12
+msgid "Basic Features"
+msgstr ""
+
+#: ../include/options/sections/general.php:17
+msgid "Enable Responsive Design"
+msgstr ""
+
+#: ../include/options/sections/general.php:18
+msgid ""
+"Enable this to use the theme's responsive features.<br/><br/>Responsive "
+"means that the layout responds to different screen sizes and devices. Such "
+"as mobile phones and tablets."
+msgstr ""
+
+#: ../include/options/sections/general.php:25
+msgid "Enable Back to Top Button"
+msgstr ""
+
+#: ../include/options/sections/general.php:26
+msgid ""
+"Here you can enable/disable the back to top button that will appear at the "
+"button of the browser viewport (the area where you see the website) when you "
+"scroll down."
+msgstr ""
+
+#: ../include/options/sections/general.php:33
+msgid "Enable Scroll Easing"
+msgstr ""
+
+#: ../include/options/sections/general.php:34
+msgid ""
+"Here you can specify whether you would like to enable or disable the scroll "
+"easing (animation) effect for when you click a navigation menu item."
+msgstr ""
+
+#: ../include/options/sections/general.php:40
+msgid "Body Background"
+msgstr ""
+
+#: ../include/options/sections/general.php:45
+msgid "Body Background Color"
+msgstr ""
+
+#: ../include/options/sections/general.php:46
+msgid "Allows you to change the background color of the main content."
+msgstr ""
+
+#: ../include/options/sections/general.php:50
+#: ../include/options/sections/shortcodes.php:11
+msgid "Icons"
+msgstr ""
+
+#: ../include/options/sections/general.php:55
+msgid "Favicon"
+msgstr ""
+
+#: ../include/options/sections/general.php:56
+msgid ""
+"Add a 16x16 pixels image that will be used for the favicon.<br/><br/>You can "
+"use the favicon generator at <a href=\"http://www.favicon.cc/\" target="
+"\"_blank\">favicon.cc</a> to generate a .ICO file from any type of image."
+msgstr ""
+
+#: ../include/options/sections/general.php:57
+msgid "Please only select PNG, GIF or ICO files."
+msgstr ""
+
+#: ../include/options/sections/general.php:62
+msgid "Apple iPhone &amp; iPod Icon 57x57"
+msgstr ""
+
+#: ../include/options/sections/general.php:63
+msgid ""
+"Add a 57x57 pixels PNG image that will be used for Apple iPhone &amp; iPod."
+msgstr ""
+
+#: ../include/options/sections/general.php:64
+msgid ""
+"Please only select PNG files and make sure they are exactly 57x57 pixels."
+msgstr ""
+
+#: ../include/options/sections/general.php:69
+msgid "Apple iPhone &amp; iPod Icon 114x114"
+msgstr ""
+
+#: ../include/options/sections/general.php:70
+msgid ""
+"Add a 114x114 pixels PNG image that will be used for Apple iPhone &amp; iPod."
+msgstr ""
+
+#: ../include/options/sections/general.php:71
+msgid ""
+"Please only select PNG files and make sure they are exactly 114x114 pixels."
+msgstr ""
+
+#: ../include/options/sections/general.php:76
+msgid "Apple iPad Icon 72x72"
+msgstr ""
+
+#: ../include/options/sections/general.php:77
+msgid "Add a 72x72 pixels PNG image that will be used for Apple iPad."
+msgstr ""
+
+#: ../include/options/sections/general.php:78
+msgid ""
+"Please only select PNG files and make sure they are exactly 72x72 pixels."
+msgstr ""
+
+#: ../include/options/sections/general.php:83
+msgid "Apple iPad Icon 144x144"
+msgstr ""
+
+#: ../include/options/sections/general.php:84
+msgid "Add a 144x144 pixels PNG image that will be used for Apple iPad."
+msgstr ""
+
+#: ../include/options/sections/general.php:85
+msgid ""
+"Please only select PNG files and make sure they are exactly 144x144 pixels."
+msgstr ""
+
+#: ../include/options/sections/general.php:89
+msgid "Tracking Code"
+msgstr ""
+
+#: ../include/options/sections/general.php:94
+msgid "Tracking Code (optional)"
+msgstr ""
+
+#: ../include/options/sections/general.php:95
+msgid ""
+"Enter your tracking code for Google Analytics or any other statistics or "
+"tracking service.<br/><br/>This code will be added to the footer of the "
+"theme on every page."
+msgstr ""
+
+#: ../include/options/sections/general.php:96
+msgid ""
+"Please include the entire script. Not just the property ID. Google's support "
+"page: <a href=\"https://support.google.com/analytics/answer/1008080?hl=en\" "
+"target=\"_blank\">How to set up the web tracking code</a> can be consulted "
+"to find out how to obtain your Google Analytics web tracking code."
+msgstr ""
+
+#: ../include/options/sections/general.php:100
+#: ../include/options/sections/general.php:105
+msgid "Custom CSS"
+msgstr ""
+
+#: ../include/options/sections/general.php:106
+msgid ""
+"Here you can add your custom CSS. Any CSS code you enter here will override "
+"the theme's CSS code.<br/><br/>You can use tools like <a href=\"https://"
+"getfirebug.com/\" target=\"_blank\">Firebug</a> for Firefox or <a href="
+"\"https://developers.google.com/chrome-developer-tools/\" target=\"_blank"
+"\">Developer Tools</a> for Chrome to find out which CSS rules are in place "
+"and how to overrride them."
+msgstr ""
+
+#: ../include/options/sections/header.php:9
+msgid "Header"
+msgstr ""
+
+#: ../include/options/sections/header.php:10
+msgid ""
+"<p class=\"description\">The header tab contains all options regarding the "
+"header that will stick to the top of your browser window.</p>"
+msgstr ""
+
+#: ../include/options/sections/header.php:19
+msgid "Show Call To Action Button"
+msgstr ""
+
+#: ../include/options/sections/header.php:20
+msgid ""
+"On the right hand-side of the header a Call To Action Button can be shown. "
+"By using this option you can enable or disable the Call To Action Button."
+msgstr ""
+
+#: ../include/options/sections/header.php:28
+msgid ""
+"Here you can select the Call to Action that will be used for all pages. You "
+"can override this setting by changing the Call to Action setting on "
+"individual pages."
+msgstr ""
+
+#: ../include/options/sections/header.php:34
+msgid "Logo"
+msgstr ""
+
+#: ../include/options/sections/header.php:39
+msgid "Logo Image"
+msgstr ""
+
+#: ../include/options/sections/header.php:40
+msgid ""
+"Add a 190x40 pixels image that will be used as the logo in the header "
+"section.<br/><br/>Please note that when the Navigation Resize option is "
+"enabled, your logo will resize too. So make sure the height of the logo is "
+"an even number of pixels, to avoid blurryness."
+msgstr ""
+
+#: ../include/options/sections/header.php:41
+#: ../include/options/sections/header.php:48
+msgid "Please only select PNG or JPEG files."
+msgstr ""
+
+#: ../include/options/sections/header.php:46
+msgid "Retina Logo Image (High Density)"
+msgstr ""
+
+#: ../include/options/sections/header.php:47
+msgid ""
+"Add a 380x80 pixels image that will be used as the logo in the header "
+"section.<br/><br/>For the Retina Logo Image the even number of pixels is "
+"less important because it will be hardly noticable."
+msgstr ""
+
+#: ../include/options/sections/header.php:52
+msgid "Header Style"
+msgstr ""
+
+#: ../include/options/sections/header.php:57
+msgid "Enable Header Easing"
+msgstr ""
+
+#: ../include/options/sections/header.php:58
+msgid ""
+"Here you can specify whether you would like to enable or disable the header "
+"easing (animation) effect when resizing."
+msgstr ""
+
+#: ../include/options/sections/header.php:65
+#: ../include/options/sections/tables.php:40
+#: ../include/options/sections/tables.php:120
+msgid "Header Background Color"
+msgstr ""
+
+#: ../include/options/sections/header.php:66
+msgid "Here you can change the Background Color of the main header section."
+msgstr ""
+
+#: ../include/options/sections/header.php:72
+msgid "Show Header Shadow"
+msgstr ""
+
+#: ../include/options/sections/header.php:73
+msgid ""
+"By default the header will have a shadow. You can use this option to enable "
+"or disable the header's shadow."
+msgstr ""
+
+#: ../include/options/sections/header.php:80
+msgid "Header Shadow Color"
+msgstr ""
+
+#: ../include/options/sections/header.php:81
+msgid ""
+"Here you can change the color of the header's shadow. This is especially "
+"useful when you are using dark colors for the main content and header."
+msgstr ""
+
+#: ../include/options/sections/header.php:87
+msgid "Header Shadow Opacity"
+msgstr ""
+
+#: ../include/options/sections/header.php:88
+msgid ""
+"If you think the current shadow strength is not right, you can use the "
+"opacity to increase or decrease the shadow's strength."
+msgstr ""
+
+#: ../include/options/sections/header.php:89
+msgid "%"
+msgstr ""
+
+#: ../include/options/sections/header.php:100
+msgid "Header Shadow Size"
+msgstr ""
+
+#: ../include/options/sections/header.php:101
+msgid ""
+"With this option you can change the size of the header's shadow. You set it "
+"from 1 to 30 pixels.<br/><br/>If you want to disable the shadow, please use "
+"the Show Header Shadow option above."
+msgstr ""
+
+#: ../include/options/sections/header.php:112
+msgid "Header Link Style"
+msgstr ""
+
+#: ../include/options/sections/header.php:117
+msgid "Header Link"
+msgstr ""
+
+#: ../include/options/sections/header.php:118
+msgid ""
+"With this option you can change the style of the primary menu. You can "
+"change the color, font and size of the menu items."
+msgstr ""
+
+#: ../include/options/sections/header.php:123
+msgid "Header Link Hover &amp; Active Color"
+msgstr ""
+
+#: ../include/options/sections/header.php:124
+msgid ""
+"When you move your cursor over the primary menu items and when a menu item "
+"belongs to the page or section where you are, this color will be used."
+msgstr ""
+
+#: ../include/options/sections/header.php:129
+msgid "Header Top Bar Options"
+msgstr ""
+
+#: ../include/options/sections/header.php:134
+msgid "Enable Header Top Bar"
+msgstr ""
+
+#: ../include/options/sections/header.php:135
+msgid ""
+"Above the primary header section an extra bar can be displayed. This bar can "
+"be used to for 2 extra menus, social media icons and the language switcher."
+msgstr ""
+
+#: ../include/options/sections/header.php:142
+msgid "Show Social Media Icons"
+msgstr ""
+
+#: ../include/options/sections/header.php:143
+msgid ""
+"Enable or disable this option if you wish to show or hide the social media "
+"icons in the Header Top Bar."
+msgstr ""
+
+#: ../include/options/sections/header.php:150
+msgid "Show Language Switcher"
+msgstr ""
+
+#: ../include/options/sections/header.php:151
+msgid ""
+"Enable or disable this option if you wish to use the Language Switcher.<br/"
+"><br/>Please not that this feature is only available when you have the "
+"multilingual plugin <a href=\"http://wpml.org/\" target=\"_blank\">WPML</a> "
+"installed."
+msgstr ""
+
+#: ../include/options/sections/header.php:157
+msgid "Header Top Bar Style"
+msgstr ""
+
+#: ../include/options/sections/header.php:162
+msgid "Header Top Bar Background Color"
+msgstr ""
+
+#: ../include/options/sections/header.php:163
+msgid "This option can be used to set the Header Top Bar background color."
+msgstr ""
+
+#: ../include/options/sections/header.php:169
+msgid "Show Header Top Bar Line"
+msgstr ""
+
+#: ../include/options/sections/header.php:170
+msgid ""
+"The Header Top Bar can display a 1 pixel line to separate the Header Top Bar "
+"from the Primary Header Section. Enable or disable this option to show or "
+"hide the line."
+msgstr ""
+
+#: ../include/options/sections/header.php:177
+msgid "Header Top Bar Line Color"
+msgstr ""
+
+#: ../include/options/sections/header.php:178
+msgid "If the Header Top Bar Line is enabled it will use this color."
+msgstr ""
+
+#: ../include/options/sections/header.php:183
+msgid "Header Top Bar Link Style"
+msgstr ""
+
+#: ../include/options/sections/header.php:188
+msgid "Header Top Bar Link"
+msgstr ""
+
+#: ../include/options/sections/header.php:189
+msgid ""
+"The Header Top Bar can contain a few clickable items, such as menu items and "
+"social media icons. Here you can select the font, color and size that should "
+"be used for these items."
+msgstr ""
+
+#: ../include/options/sections/header.php:194
+msgid "Header Top Bar Link Hover"
+msgstr ""
+
+#: ../include/options/sections/header.php:195
+msgid ""
+"With this option you can set the color that is used when you move your "
+"cursor over the Header Top Bar Links."
+msgstr ""
+
+#: ../include/options/sections/header.php:200
+msgid "Header Sub-menus"
+msgstr ""
+
+#: ../include/options/sections/header.php:205
+msgid "Header Sub-menu Background Color"
+msgstr ""
+
+#: ../include/options/sections/header.php:206
+msgid ""
+"Whenever you have a second level in your menus a sub-menu will be shown when "
+"you move your cursor over the parent menu item. With this option you can "
+"change the background color of these menus."
+msgstr ""
+
+#: ../include/options/sections/header.php:211
+msgid "Header Sub-menu Background Hover Color"
+msgstr ""
+
+#: ../include/options/sections/header.php:212
+msgid ""
+"Additional to that when you move your cursor over the child items, a "
+"different color can be used to highlight that the item is clickable."
+msgstr ""
+
+#: ../include/options/sections/header.php:217
+msgid "Header Sub-menu Link"
+msgstr ""
+
+#: ../include/options/sections/header.php:218
+msgid ""
+"This option is for the color of the links that are shown in the sub-menu "
+"child items. Here you can select the color, font and size for the child "
+"items."
+msgstr ""
+
+#: ../include/options/sections/header.php:223
+msgid "Header Sub-menu Link Hover Color"
+msgstr ""
+
+#: ../include/options/sections/header.php:224
+msgid ""
+"When you move your cursor over the sub-menu's child items, this color will "
+"be used."
+msgstr ""
+
+#: ../include/options/sections/portfolio.php:6
+msgid "Portfolio"
+msgstr ""
+
+#: ../include/options/sections/portfolio.php:7
+msgid ""
+"<p class=\"description\">The options below are used for everything related "
+"to the portfolio.</p>"
+msgstr ""
+
+#: ../include/options/sections/portfolio.php:11
+msgid "Shortcode - Mouse Over Style"
+msgstr ""
+
+#: ../include/options/sections/portfolio.php:17
+msgid ""
+"Here you can specify the background color that will be used when you move "
+"your cursor over the images of the portfolio shortcode's projects."
+msgstr ""
+
+#: ../include/options/sections/portfolio.php:23
+msgid ""
+"Here you can specify the icon color and text style that will be used when "
+"you move your cursor over the images of the portfolio shortcode's projects."
+msgstr ""
+
+#: ../include/options/sections/portfolio.php:27
+msgid "Shortcode - Category Text Links"
+msgstr ""
+
+#: ../include/options/sections/portfolio.php:33
+msgid ""
+"Here you can set the link style of the categories that will be displayed on "
+"top of the portfolio shortcode projects."
+msgstr ""
+
+#: ../include/options/sections/portfolio.php:38
+msgid "Mouse Over Color"
+msgstr ""
+
+#: ../include/options/sections/portfolio.php:39
+msgid ""
+"Here you can set the color of the link style of the portfolio shortcode "
+"category links."
+msgstr ""
+
+#: ../include/options/sections/portfolio.php:43
+msgid "Project - Project Attributes"
+msgstr ""
+
+#: ../include/options/sections/portfolio.php:48
+#: ../include/options/sections/shortcodes.php:71
+#: ../include/options/sections/shortcodes.php:93
+#: ../include/options/sections/shortcodes.php:115
+#: ../include/options/sections/shortcodes.php:137
+#: ../include/options/sections/tabs-toggles.php:28
+msgid "Icon Color"
+msgstr ""
+
+#: ../include/options/sections/portfolio.php:49
+msgid ""
+"Here you can set the color of the projects attributes that will appear on "
+"the portfolio page."
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:12
+msgid "Setup Guide"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:17
+msgid "Step 1: Install RAW Theme Essentials Plugin"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:22
+msgid "Install RAW Theme Essentials Plugin <span class=\"required\">*</span>"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:23
+msgid ""
+"In order to use all RAW's features you will need to install and activate the "
+"RAW Theme Essentials plugin. The RAW Theme Essentials Plugin has been "
+"included in this Theme by default."
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:24
+msgid "Install RAW Theme Essentials"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:29
+msgid "Step 2: Setup Permalinks"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:34
+msgid "Setup Permalinks <span class=\"required\">*</span>"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:35
+msgid ""
+"For the One Page functionality to work properly, configuring permalinks is "
+"required."
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:41
+msgid "Step 3: Import Sample Data"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:46
+#: ../include/options/sections/setup-guide.php:48
+msgid "Import Sample Data"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:47
+msgid ""
+"If you want to use the sample data as the basis of your website or just to "
+"learn from, you import the sample data by clicking 'Import Sample Data'. If "
+"you don't want to use the sample data, you can check 'No, I don't want to "
+"import the sample data.' to complete this step."
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:56
+msgid "Step 4: Set a Static Front Page"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:61
+msgid "Set a Static Front Page <span class=\"required\">*</span>"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:62
+msgid ""
+"WordPress shows blog posts by default as the front page. When you use a "
+"theme such as this one, you will not use the front page in that way. That's "
+"what it is required to set a static page as the front page of the website."
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:63
+msgid "Set Static Front Page"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:68
+msgid "Step 5: Required Plugins"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:73
+msgid "5.1 - Slider Revolution"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:74
+msgid ""
+"Create a responsive or fullwidth slider with must-see-effects and meanwhile "
+"keep or build your SEO optimization.<br/><br/>This plugin was developed by "
+"<a href=\"http://codecanyon.net/item/slider-revolution-responsive-wordpress-"
+"plugin/2751380\" target=\"_blank\">themepunch</a> and has been included in "
+"this theme for free."
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:75
+msgid "Install Slider Revolution"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:84
+msgid "5.2 - Layer Slider"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:85
+msgid ""
+"LayerSlider is the most advanced Responsive jQuery Slider Plugin with the "
+"famous Parallax Effect and optional 3D Transitions.<br/><br/>This plugin was "
+"developed by <a href=\"http://codecanyon.net/item/layerslider-responsive-"
+"wordpress-slider-plugin-/1362246\" target=\"_blank\">kreatura</a> and has "
+"been included in this theme for free."
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:86
+msgid "Install Layer Slider"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:94
+msgid "Step 6: Recommended Plugins"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:99
+msgid "6.1 - Contact Form 7"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:100
+msgid ""
+"If you value simplicity and flexibility, Contact Form 7 is a great choice. "
+"It allows you to flexibly design the form and mail.<br/><br/>This plugin was "
+"developed by <a href=\"http://contactform7.com/\" target=\"_blank\">Takayuki "
+"Miyoshi</a>.<br/><br/>You can install this plugin by pressing the 'Install "
+"Contact Form 7' button."
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:101
+msgid "Install Contact Form 7"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:110
+msgid "6.2 - WooCommerce"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:111
+msgid ""
+"Transform your WordPress website into a thorough-bred eCommerce store. "
+"Delivering enterprise-level quality and features whilst backed by a name you "
+"can trust.<br/><br/>You can install this plugin by pressing the 'Install "
+"WooCommerce' button."
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:112
+msgid "Install WooCommerce"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:121
+msgid "6.3 - Gravity Forms"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:122
+msgid ""
+"Build and publish your WordPress forms in just minutes. No drudgery, just "
+"quick and easy form-building.<br/><br/>This plugin was developed by <a href="
+"\"http://www.gravityforms.com/\" target=\"_blank\">Rocketgenius, Inc</a>.<br/"
+"><br/>This is a commercial plugin and needs to be purchased in order to use "
+"it. Click <a href=\"http://www.gravityforms.com/\" target=\"_blank\">here</"
+"a> to visit the vendor's website."
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:132
+msgid "6.4 - WPML Multilingual CMS"
+msgstr ""
+
+#: ../include/options/sections/setup-guide.php:133
+msgid ""
+"WPML makes it easy to build multilingual sites and run them. It’s powerful "
+"enough for corporate sites, yet simple for blogs.<br/><br/>This plugin was "
+"developed by <a href=\"http://wpml.org/\" target=\"_blank\">OnTheGoSystems, "
+"Inc</a>.<br/><br/>This is a commercial plugin and needs to be purchased in "
+"order to use it. Click <a href=\"http://wpml.org/\" target=\"_blank\">here</"
+"a> to visit the vendor's website."
+msgstr ""
+
+#: ../include/options/sections/shop.php:6
+msgid "Shop"
+msgstr ""
+
+#: ../include/options/sections/shop.php:11
+msgid "Sidebar"
+msgstr ""
+
+#: ../include/options/sections/shop.php:17
+msgid ""
+"This option allows you to enable/disable the sidebar that will show on the "
+"shop pages."
+msgstr ""
+
+#: ../include/options/sections/shop.php:19
+msgid "None"
+msgstr ""
+
+#: ../include/options/sections/shop.php:20
+msgid "Left"
+msgstr ""
+
+#: ../include/options/sections/shop.php:21
+msgid "Right"
+msgstr ""
+
+#: ../include/options/sections/shop.php:27
+msgid "Products"
+msgstr ""
+
+#: ../include/options/sections/shop.php:33
+msgid "Here you can set the background color of the products."
+msgstr ""
+
+#: ../include/options/sections/shop.php:39
+#: ../include/options/sections/shop.php:103
+msgid "Product Name"
+msgstr ""
+
+#: ../include/options/sections/shop.php:40
+msgid "Here you can set the text style of the product name within the producs."
+msgstr ""
+
+#: ../include/options/sections/shop.php:46 ../woocommerce/cart/cart.php:29
+#: ../woocommerce/emails/admin-new-order.php:24
+#: ../woocommerce/emails/customer-completed-order.php:25
+#: ../woocommerce/emails/customer-invoice.php:29
+#: ../woocommerce/emails/customer-note.php:29
+#: ../woocommerce/emails/customer-processing-order.php:25
+msgid "Price"
+msgstr ""
+
+#: ../include/options/sections/shop.php:47
+msgid "Here you can set the text style of the price within the products."
+msgstr ""
+
+#: ../include/options/sections/shop.php:53
+msgid "Text Links"
+msgstr ""
+
+#: ../include/options/sections/shop.php:54
+msgid ""
+"Here you can set the text style of the links or buttons at the bottom of the "
+"products."
+msgstr ""
+
+#: ../include/options/sections/shop.php:60
+msgid "Text Links Hover"
+msgstr ""
+
+#: ../include/options/sections/shop.php:61
+msgid ""
+"Here you can set the color of the text of the links or buttons at the bottom "
+"of the products."
+msgstr ""
+
+#: ../include/options/sections/shop.php:67
+msgid "Text Links Line Color"
+msgstr ""
+
+#: ../include/options/sections/shop.php:68
+msgid ""
+"Here you can set the color of the line that is on top of the links at the "
+"bottom of the products."
+msgstr ""
+
+#: ../include/options/sections/shop.php:74
+msgid "Rating Stars Color"
+msgstr ""
+
+#: ../include/options/sections/shop.php:75
+msgid "Here you can set the color of the rating stars of the products."
+msgstr ""
+
+#: ../include/options/sections/shop.php:80
+msgid "Sale Button"
+msgstr ""
+
+#: ../include/options/sections/shop.php:86
+msgid "Here you can set the background color of the sale buttons."
+msgstr ""
+
+#: ../include/options/sections/shop.php:93
+msgid "Here you can set the text style of the sale buttons."
+msgstr ""
+
+#: ../include/options/sections/shop.php:98
+msgid "Product Page"
+msgstr ""
+
+#: ../include/options/sections/shop.php:104
+msgid ""
+"Here you can set the style of the product names within the product pages."
+msgstr ""
+
+#: ../include/options/sections/shop.php:109
+msgid "Product Price"
+msgstr ""
+
+#: ../include/options/sections/shop.php:110
+msgid "Here you can set the text style of the price within the product pages."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:6
+msgid "Shortcodes"
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:16
+#: ../include/options/sections/shortcodes.php:153
+msgid "Default Color"
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:17
+msgid ""
+"Here you can set the default color that will be used for all icons which do "
+"not have a custom icon color defined."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:21
+msgid "Testimonials"
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:26
+msgid "Quotation"
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:27
+msgid ""
+"Here you can change the text style of the quotation of the testimonials."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:33
+msgid ""
+"Here you can change the text style of the name of the person that wrote the "
+"testimonial."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:38
+msgid "Company"
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:39
+msgid ""
+"Here you can change the text style of the company of the person that wrote "
+"the testimonial."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:43
+msgid "Alerts - General"
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:49
+msgid ""
+"Here you can change the roundess or softness of the corners of all alerts."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:60
+msgid "Alerts - Info"
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:66
+msgid "Here you can set the background color of the info alerts."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:72
+msgid "Here you can set the icon color of the info alerts."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:78
+msgid "Here you can set the text style of the info alerts."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:82
+msgid "Alerts - Success"
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:88
+msgid "Here you can set the background color of the success alerts."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:94
+msgid "Here you can set the icon color of the success alerts."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:100
+msgid "Here you can set the text style of the success alerts."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:104
+msgid "Alerts - Notice"
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:110
+msgid "Here you can set the background color of the notice alerts."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:116
+msgid "Here you can set the icon color of the notice alerts."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:122
+msgid "Here you can set the text style of the notice alerts."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:126
+msgid "Alerts - Error"
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:132
+msgid "Here you can set the background color of the error alerts."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:138
+msgid "Here you can set the icon color of the error alerts."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:144
+msgid "Here you can set the text style of the error alerts."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:148
+msgid "Separators"
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:154
+msgid ""
+"Here you can set the default color that will be used when a separator does "
+"not have a custom color."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:159
+msgid "Default Thickness"
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:160
+msgid ""
+"Here you can set the default thickness of the separators which do not have a "
+"custom thickness."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:171
+msgid "Animated Counters"
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:176
+msgid "Animated Counters Default Color"
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:177
+msgid ""
+"When using Animated Counters in your pages, the label containing the current "
+"value or in Circular Counter the circel around the counter will have a "
+"default color."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:178
+msgid ""
+"You can also change the color of each individual counter by using the "
+"shortcode attributes. Please view the document for more information."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:183
+msgid "Animated Counters Background Default Color"
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:184
+msgid ""
+"Allows you to change the default background color of the Circular Counters"
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:188
+msgid "Boxed Counters"
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:193
+msgid "Boxed Animated Counters Background Color"
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:194
+msgid ""
+"Here you can set the background color for the boxed counters. Boxed counters "
+"are the counters that have the boxed style enabled."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:199
+msgid "Bar Graphs"
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:205
+msgid "Here you can set the color that will be used for the bar graphs."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:212
+msgid ""
+"Here you can set the background color that will be used for the bar graphs."
+msgstr ""
+
+#: ../include/options/sections/shortcodes.php:218
+msgid ""
+"Here you can set the style of the heading that is on top of the each bar."
+msgstr ""
+
+#: ../include/options/sections/social-media.php:6
+msgid "Social Media URL's"
+msgstr ""
+
+#: ../include/options/sections/social-media.php:14
+msgid " URL"
+msgstr ""
+
+#: ../include/options/sections/social-media.php:15
+#, php-format
+msgid "Enter your %s URL. (Optional)"
+msgstr ""
+
+#: ../include/options/sections/social-media.php:23
+msgid ""
+"<p class=\"description\">Here you can enter your Social Media URL's. The "
+"URL's you can enter can then be optionally displayed in the Header Top Bar "
+"and in the Footer section.</p>"
+msgstr ""
+
+#: ../include/options/sections/tables.php:6
+msgid "Tables"
+msgstr ""
+
+#: ../include/options/sections/tables.php:7
+msgid ""
+"<p class=\"description\">This tab contains all options regarding pricing "
+"tables and regular tables.</p>"
+msgstr ""
+
+#: ../include/options/sections/tables.php:11
+msgid "Table - General"
+msgstr ""
+
+#: ../include/options/sections/tables.php:16
+#: ../include/options/sections/tables.php:96
+msgid "Corner Roundness"
+msgstr ""
+
+#: ../include/options/sections/tables.php:17
+#: ../include/options/sections/tables.php:97
+msgid ""
+"Here you can change the roundness or softness of the corners of the pricing "
+"columns."
+msgstr ""
+
+#: ../include/options/sections/tables.php:30
+#: ../include/options/sections/tables.php:110
+msgid "Line Color"
+msgstr ""
+
+#: ../include/options/sections/tables.php:31
+#: ../include/options/sections/tables.php:111
+msgid ""
+"Here you can change the color of the line that separates the rows of the "
+"pricing table."
+msgstr ""
+
+#: ../include/options/sections/tables.php:35
+msgid "Table - Header"
+msgstr ""
+
+#: ../include/options/sections/tables.php:41
+#: ../include/options/sections/tables.php:121
+msgid ""
+"This is the option for changing the header background color of columns that "
+"are not highlighted."
+msgstr ""
+
+#: ../include/options/sections/tables.php:47
+#: ../include/options/sections/tables.php:133
+msgid "Here you can change the style of the headings of the pricing columns."
+msgstr ""
+
+#: ../include/options/sections/tables.php:53
+#: ../include/options/sections/tables.php:75
+#: ../include/options/sections/tables.php:183
+msgid ""
+"Here you can change the background color that is used for the largest part "
+"of the pricing columns."
+msgstr ""
+
+#: ../include/options/sections/tables.php:58
+#: ../include/options/sections/tables.php:80
+#: ../include/options/sections/tables.php:188
+msgid "Odd Row Background Color"
+msgstr ""
+
+#: ../include/options/sections/tables.php:59
+#: ../include/options/sections/tables.php:81
+#: ../include/options/sections/tables.php:189
+msgid ""
+"Here you can change the background color for the odd rows of the pricing "
+"table. The even rows will use the background color that was selected above."
+msgstr ""
+
+#: ../include/options/sections/tables.php:65
+#: ../include/options/sections/tables.php:87
+#: ../include/options/sections/tables.php:195
+msgid "This is the style of the text that is used in the list of features."
+msgstr ""
+
+#: ../include/options/sections/tables.php:69
+#: ../include/options/sections/tables.php:177
+msgid "Pricing Table - Body"
+msgstr ""
+
+#: ../include/options/sections/tables.php:91
+msgid "Pricing Table - General"
+msgstr ""
+
+#: ../include/options/sections/tables.php:115
+msgid "Pricing Table - Header"
+msgstr ""
+
+#: ../include/options/sections/tables.php:126
+msgid "Header Highlight Background Color"
+msgstr ""
+
+#: ../include/options/sections/tables.php:127
+msgid ""
+"Here you can change the highlighted header background color of the pricing "
+"columns."
+msgstr ""
+
+#: ../include/options/sections/tables.php:138
+msgid "Highlight Heading"
+msgstr ""
+
+#: ../include/options/sections/tables.php:139
+msgid ""
+"Here you can change the style of the highlighted headings of the pricing "
+"columns."
+msgstr ""
+
+#: ../include/options/sections/tables.php:144
+msgid "Highlight Sub-heading"
+msgstr ""
+
+#: ../include/options/sections/tables.php:145
+msgid ""
+"The highlighted prcing columns can contain a sub-heading. For example: 'Best "
+"Offer'. This options allows you to change the style of the sub-heading."
+msgstr ""
+
+#: ../include/options/sections/tables.php:149
+msgid "Pricing Table - Pricing"
+msgstr ""
+
+#: ../include/options/sections/tables.php:154
+msgid "Currency Text"
+msgstr ""
+
+#: ../include/options/sections/tables.php:155
+msgid ""
+"This is the style for the currency symbol that appears on the left hand-side "
+"of the amount."
+msgstr ""
+
+#: ../include/options/sections/tables.php:160
+msgid "Amount Text"
+msgstr ""
+
+#: ../include/options/sections/tables.php:161
+msgid ""
+"The style for the amount of the pricing column. Don't make the size too "
+"large in case you want to use large numbers."
+msgstr ""
+
+#: ../include/options/sections/tables.php:166
+msgid "Decimal Text"
+msgstr ""
+
+#: ../include/options/sections/tables.php:167
+msgid ""
+"This is the text style for the optional decimal value that can be shown "
+"after the amount,"
+msgstr ""
+
+#: ../include/options/sections/tables.php:172
+msgid "Recurrence Text"
+msgstr ""
+
+#: ../include/options/sections/tables.php:173
+msgid ""
+"The recurrence text is the text that describes whether the pricing is per "
+"month, per year or perhaps one time off."
+msgstr ""
+
+#: ../include/options/sections/tabs-toggles.php:6
+msgid "Tabs & Toggles"
+msgstr ""
+
+#: ../include/options/sections/tabs-toggles.php:11
+msgid "Tabs - Buttons"
+msgstr ""
+
+#: ../include/options/sections/tabs-toggles.php:17
+msgid "Here you can set the text style that will be used for the tab buttons."
+msgstr ""
+
+#: ../include/options/sections/tabs-toggles.php:23
+msgid ""
+"Here you can select the mouse over color for the text of the tab buttons."
+msgstr ""
+
+#: ../include/options/sections/tabs-toggles.php:29
+msgid ""
+"Here you can set the color of the optional icon that can be used within the "
+"tab buttons."
+msgstr ""
+
+#: ../include/options/sections/tabs-toggles.php:33
+msgid "Tabs - Panel"
+msgstr ""
+
+#: ../include/options/sections/tabs-toggles.php:39
+msgid "Here you can change the background color of the tab panels."
+msgstr ""
+
+#: ../include/options/sections/tabs-toggles.php:45
+msgid "Here you can set the body text style of the tab panels."
+msgstr ""
+
+#: ../include/options/sections/tabs-toggles.php:49
+msgid "Tabs - Subject"
+msgstr ""
+
+#: ../include/options/sections/tabs-toggles.php:54
+msgid "Subject Heading"
+msgstr ""
+
+#: ../include/options/sections/tabs-toggles.php:55
+msgid "Here you can set the text style of the headings of the subject tabs."
+msgstr ""
+
+#: ../include/options/sections/tabs-toggles.php:59
+msgid "Accordion & Toggles - Button"
+msgstr ""
+
+#: ../include/options/sections/tabs-toggles.php:65
+msgid "Here you can set the text style of the toggle buttons."
+msgstr ""
+
+#: ../include/options/sections/tabs-toggles.php:71
+msgid ""
+"Here you can set the mouse over color that will be used when you move your "
+"cursorm of the toggle buttons."
+msgstr ""
+
+#: ../include/options/sections/tabs-toggles.php:76
+msgid "Arrow Icon Color"
+msgstr ""
+
+#: ../include/options/sections/tabs-toggles.php:77
+msgid "Here you can set the toggle's arrow icon color."
+msgstr ""
+
+#: ../include/options/sections/tabs-toggles.php:81
+msgid "Accordion & Toggles - Panel"
+msgstr ""
+
+#: ../include/options/sections/tabs-toggles.php:87
+msgid "Here you can set the background color of the toggle's panel."
+msgstr ""
+
+#: ../include/options/sections/tabs-toggles.php:93
+msgid "Here you can set the body text style of the toggle's panel."
+msgstr ""
+
+#: ../include/options/sections/team.php:6
+msgid "Team &amp; Person"
+msgstr ""
+
+#: ../include/options/sections/team.php:7
+msgid ""
+"<p class=\"description\">This tab contains all options regarding the person "
+"shortcode and the team slider.</p>"
+msgstr ""
+
+#: ../include/options/sections/team.php:17
+msgid "Here you can set the style that should be used for the name of persons."
+msgstr ""
+
+#: ../include/options/sections/team.php:23
+msgid ""
+"Here you can set the style that should be used for the title of persons."
+msgstr ""
+
+#: ../include/options/sections/team.php:29
+msgid ""
+"Here you can set the style that should be used for the description of "
+"persons."
+msgstr ""
+
+#: ../include/options/sections/team.php:33
+msgid "Mouse Over"
+msgstr ""
+
+#: ../include/options/sections/team.php:39
+msgid ""
+"Here you can set the background color that will be shown when you move your "
+"cursor over a person."
+msgstr ""
+
+#: ../include/options/sections/team.php:44
+msgid "Icons &amp; Name"
+msgstr ""
+
+#: ../include/options/sections/team.php:45
+msgid ""
+"Here you can set the icon color and text style for when you move your cursor "
+"over a person."
+msgstr ""
+
+#: ../include/options/sections/typography.php:6
+msgid "Typography"
+msgstr ""
+
+#: ../include/options/sections/typography.php:7
+msgid ""
+"<p class=\"description\">All of the options below have something to do with "
+"the typography of the theme.</p>"
+msgstr ""
+
+#: ../include/options/sections/typography.php:11
+msgid "Body Style"
+msgstr ""
+
+#: ../include/options/sections/typography.php:17
+msgid ""
+"Body texts are all texts that make up the main content of the web pages. "
+"With this feature you can change the color, font and size of the the body "
+"text."
+msgstr ""
+
+#: ../include/options/sections/typography.php:22
+msgid "Links"
+msgstr ""
+
+#: ../include/options/sections/typography.php:27
+msgid "Link Color"
+msgstr ""
+
+#: ../include/options/sections/typography.php:28
+msgid ""
+"Here you need to select the color that will be used for text links "
+"throughout the website."
+msgstr ""
+
+#: ../include/options/sections/typography.php:33
+msgid "Link Mouse Over Color"
+msgstr ""
+
+#: ../include/options/sections/typography.php:34
+msgid ""
+"This is the color that will be used when you move your cursor over the text "
+"links."
+msgstr ""
+
+#: ../include/options/sections/typography.php:38
+msgid "Headings"
+msgstr ""
+
+#: ../include/options/sections/typography.php:43
+msgid "Heading 1"
+msgstr ""
+
+#: ../include/options/sections/typography.php:44
+msgid ""
+"Here you can change the style of the Heading size 1 or H1 that is used "
+"throughout the theme."
+msgstr ""
+
+#: ../include/options/sections/typography.php:49
+msgid "Heading 2"
+msgstr ""
+
+#: ../include/options/sections/typography.php:50
+msgid ""
+"Here you can change the style of the Heading size 2 or H2 that is used "
+"throughout the theme."
+msgstr ""
+
+#: ../include/options/sections/typography.php:55
+msgid "Heading 3"
+msgstr ""
+
+#: ../include/options/sections/typography.php:56
+msgid ""
+"Here you can change the style of the Heading size 3 or H3 that is used "
+"throughout the theme."
+msgstr ""
+
+#: ../include/options/sections/typography.php:61
+msgid "Heading 4"
+msgstr ""
+
+#: ../include/options/sections/typography.php:62
+msgid ""
+"Here you can change the style of the Heading size 4 or H4 that is used "
+"throughout the theme."
+msgstr ""
+
+#: ../include/options/sections/typography.php:67
+msgid "Heading 5"
+msgstr ""
+
+#: ../include/options/sections/typography.php:68
+msgid ""
+"Here you can change the style of the Heading size 5 or H5 that is used "
+"throughout the theme."
+msgstr ""
+
+#: ../include/options/sections/typography.php:73
+msgid "Heading 6"
+msgstr ""
+
+#: ../include/options/sections/typography.php:74
+msgid ""
+"Here you can change the style of the Heading size 6 or H6 that is used "
+"throughout the theme."
+msgstr ""
+
+#: ../include/options/sections/typography.php:78
+msgid "Dropcaps"
+msgstr ""
+
+#: ../include/options/sections/typography.php:83
+msgid "Dropcap Style"
+msgstr ""
+
+#: ../include/options/sections/typography.php:84
+msgid ""
+"A dropcaps is a letter at the beginning of a paragraph or chapter that is "
+"larger than the rest of the text. You can use dropcaps by the use of the "
+"dropcap shortcode. Here you can specifiy which color should be used as the "
+"default color, as it is also possible to use custom colors within the "
+"shortcode."
+msgstr ""
+
+#: ../include/options/sections/typography.php:88
+msgid "Light Texts"
+msgstr ""
+
+#: ../include/options/sections/typography.php:93
+msgid "Light Heading 1"
+msgstr ""
+
+#: ../include/options/sections/typography.php:94
+msgid ""
+"Here you can specify the text style of the Heading 1 which are inside of a "
+"Light shortcode."
+msgstr ""
+
+#: ../include/options/sections/typography.php:99
+msgid "Light Heading 2"
+msgstr ""
+
+#: ../include/options/sections/typography.php:100
+msgid ""
+"Here you can specify the text style of the Heading 2 which are inside of a "
+"Light shortcode."
+msgstr ""
+
+#: ../include/options/sections/typography.php:105
+msgid "Light Heading 3"
+msgstr ""
+
+#: ../include/options/sections/typography.php:106
+msgid ""
+"Here you can specify the text style of the Heading 3 which are inside of a "
+"Light shortcode."
+msgstr ""
+
+#: ../include/options/sections/typography.php:111
+msgid "Light Heading 4"
+msgstr ""
+
+#: ../include/options/sections/typography.php:112
+msgid ""
+"Here you can specify the text style of the Heading 4 which are inside of a "
+"Light shortcode."
+msgstr ""
+
+#: ../include/options/sections/typography.php:117
+msgid "Light Heading 5"
+msgstr ""
+
+#: ../include/options/sections/typography.php:118
+msgid ""
+"Here you can specify the text style of the Heading 5 which are inside of a "
+"Light shortcode."
+msgstr ""
+
+#: ../include/options/sections/typography.php:123
+msgid "Light Heading 6"
+msgstr ""
+
+#: ../include/options/sections/typography.php:124
+msgid ""
+"Here you can specify the text style of the Heading 6 which are inside of a "
+"Light shortcode."
+msgstr ""
+
+#: ../include/options/sections/typography.php:129
+msgid "Light Paragraph"
+msgstr ""
+
+#: ../include/options/sections/typography.php:130
+msgid ""
+"Here you can specify the text style of the Paragraphs which are inside of a "
+"Light shortcode."
+msgstr ""
+
+#: ../include/options/validation/color/validation_color.php:14
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../include/options/validation/comma_numeric/validation_comma_numeric.php:14
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: ../include/options/validation/date/validation_date.php:14
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../include/options/validation/email/validation_email.php:14
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../include/options/validation/no_html/validation_no_html.php:14
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../include/options/validation/no_special_chars/validation_no_special_chars.php:14
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../include/options/validation/numeric/validation_numeric.php:14
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../include/options/validation/url/validation_url.php:14
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:517
+#: ../library/TGM/Plugin/Activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1300
+#: ../woocommerce/myaccount/my-orders.php:34
+msgid "Status"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../library/TGM/Plugin/Activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1956
+#: ../library/TGM/Plugin/Activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1956
+#: ../library/TGM/Plugin/Activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../library/TGM/Plugin/Activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../library/Wave/Filters.php:26
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:114 ../library/Wave/Demo/Import.php:123
+#: ../library/Wave/Demo/Import.php:173 ../library/Wave/Demo/Import.php:178
+#: ../library/Wave/Demo/Import.php:188
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:115
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:179
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:197
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:221
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:247
+msgid "Assign Authors"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:248
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:250
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:260
+msgid "Import Attachments"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:264
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:282
+msgid "Import author:"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:294
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:297
+msgid "as a new user:"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:305
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:306
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:310
+msgid "- Select -"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:361
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:412
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:455
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:506 ../library/Wave/Demo/Import.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:531
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:552
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:619
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:781
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:789
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:854
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:912
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:919
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:927
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:933
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:940
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:1043
+msgid "Import WordPress"
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:1050
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:1065
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../library/Wave/Demo/Import.php:1066
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../library/Wave/Demo/Parser.php:33
+#: ../library/Wave/Demo/Parser/SimpleXML.php:20
+#: ../library/Wave/Demo/Parser/SimpleXML.php:28
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../library/Wave/Demo/Parser.php:34
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../library/Wave/Demo/Parser/Regex.php:75
+#: ../library/Wave/Demo/Parser/SimpleXML.php:32
+#: ../library/Wave/Demo/Parser/SimpleXML.php:37
+#: ../library/Wave/Demo/Parser/XML.php:39
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../library/Wave/Widget/RecentPosts.php:8
+#: ../library/Wave/Widget/RecentProjects.php:8
+msgid "A Portfolio Widget"
+msgstr ""
+
+#: ../library/Wave/Widget/RecentPosts.php:60
+msgid "Recent Posts"
+msgstr ""
+
+#: ../library/Wave/Widget/RecentPosts.php:77
+#: ../library/Wave/Widget/RecentProjects.php:77
+msgid "Number of projects to show: "
+msgstr ""
+
+#: ../library/Wave/Widget/RecentPosts.php:84
+#: ../library/Wave/Widget/RecentProjects.php:84
+msgid "Show Thumb"
+msgstr ""
+
+#: ../library/Wave/Widget/RecentProjects.php:60
+msgid "Recent Projects"
+msgstr ""
+
+#: ../parts/portfolio/content.php:26
+msgid "<i class=\"icon icon-angle-left\"></i>&nbsp;&nbsp;Previous Project"
+msgstr ""
+
+#: ../parts/portfolio/content.php:27
+msgid "Next Project&nbsp;&nbsp;<i class=\"icon icon-angle-right\"></i>"
+msgstr ""
+
+#: ../parts/portfolio/content.php:53
+msgid "Visit Project"
+msgstr ""
+
+#: ../parts/post/content.php:8
+msgid "Posted by"
+msgstr ""
+
+#: ../parts/post/content.php:22
+msgid "Continue reading "
+msgstr ""
+
+#: ../parts/post/content.php:25 ../woocommerce/loop/add-to-cart.php:17
+#: ../woocommerce/loop/add-to-cart.php:41
+#: ../woocommerce/loop/add-to-cart.php:50
+msgid "Read More"
+msgstr ""
+
+#: ../parts/post/content.php:33
+msgid "Pages: "
+msgstr ""
+
+#: ../parts/post/content.php:38
+msgid "<i class=\"icon icon-angle-left\"></i>&nbsp;&nbsp;Previous Post"
+msgstr ""
+
+#: ../parts/post/content.php:39
+msgid "Next Post&nbsp;&nbsp;<i class=\"icon icon-angle-right\"></i>"
+msgstr ""
+
+#: ../woocommerce/content-product.php:101
+msgid "Show details"
+msgstr ""
+
+#: ../woocommerce/loop-shop.php:40
+#: ../woocommerce/loop/no-products-found.php:14
+msgid "No products found which match your selection."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:20
+msgid "Reviews"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:37
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:41
+msgid "Add Your Review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:41
+msgid "Add Review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:43
+msgid "Add a review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:47
+msgid "Be the first to review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:49
+msgid ""
+"There are no reviews yet, would you like to <a href=\"#review_form\" class="
+"\"inline show_review_form\">submit yours</a>?"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:67
+msgid "Submit Review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:74
+msgid "Rating"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:75
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:76
+msgid "Perfect"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:77
+msgid "Good"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:78
+msgid "Average"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:79
+msgid "Not that bad"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:80
+msgid "Very Poor"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:85
+msgid "Your Review"
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:14
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:18
+msgid "&larr; Return To Shop"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:28 ../woocommerce/checkout/form-pay.php:19
+#: ../woocommerce/checkout/review-order.php:21
+#: ../woocommerce/emails/admin-new-order.php:22
+#: ../woocommerce/emails/customer-completed-order.php:23
+#: ../woocommerce/emails/customer-invoice.php:27
+#: ../woocommerce/emails/customer-note.php:27
+#: ../woocommerce/emails/customer-processing-order.php:23
+#: ../woocommerce/order/order-details.php:20
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:30
+#: ../woocommerce/emails/admin-new-order.php:23
+#: ../woocommerce/emails/customer-completed-order.php:24
+#: ../woocommerce/emails/customer-invoice.php:28
+#: ../woocommerce/emails/customer-note.php:28
+#: ../woocommerce/emails/customer-processing-order.php:24
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:31 ../woocommerce/checkout/review-order.php:22
+#: ../woocommerce/myaccount/my-orders.php:35
+#: ../woocommerce/order/order-details.php:21
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:76
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:100
+#: ../woocommerce/single-product/add-to-cart/quantity.php:12
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:127
+msgid "Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:127 ../woocommerce/checkout/form-coupon.php:29
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:134
+msgid "Update Cart"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:134
+msgid "Proceed to Checkout &rarr;"
+msgstr ""
+
+#: ../woocommerce/cart/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:55
+msgid "No products in the cart."
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:63
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:68
+msgid "View Cart &rarr;"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:69
+msgid "Checkout &rarr;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:28
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:45
+#: ../woocommerce/cart/shipping-calculator.php:51
+#: ../woocommerce/cart/shipping-calculator.php:63
+msgid "State / county"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:52
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:72
+msgid "City"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:80
+msgid "Postcode / Zip"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:85
+msgid "Update Totals"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-methods.php:32
+msgid "Free"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-methods.php:68
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/shipping-methods.php:76
+#: ../woocommerce/cart/totals.php:147
+#, php-format
+msgid ""
+"Sorry, it seems that there are no available shipping methods for your "
+"location (%s)."
+msgstr ""
+
+#: ../woocommerce/cart/shipping-methods.php:76
+#: ../woocommerce/cart/totals.php:147
+msgid ""
+"If you require assistance or wish to make alternate arrangements please "
+"contact us."
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:22
+msgid "Cart Totals"
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:28
+#: ../woocommerce/checkout/review-order.php:27
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:35
+#: ../woocommerce/checkout/review-order.php:34
+msgid "Cart Discount"
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:35 ../woocommerce/cart/totals.php:83
+msgid "[Remove]"
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:46
+#: ../woocommerce/checkout/review-order.php:45
+msgid "Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:83
+#: ../woocommerce/checkout/review-order.php:82
+msgid "Order Discount"
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:92
+#: ../woocommerce/checkout/review-order.php:91
+msgid "Order Total"
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:105
+#: ../woocommerce/checkout/review-order.php:104
+#, php-format
+msgid "(Includes %s)"
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:121
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:123
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: ../woocommerce/cart/totals.php:135
+msgid ""
+"No shipping methods were found; please recalculate your shipping and enter "
+"your state/county and zip/postcode to ensure there are no other available "
+"methods for your location."
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:16
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:20
+msgid "&larr; Return To Cart"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:17
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:21
+#: ../woocommerce/myaccount/form-edit-address.php:27
+#: ../woocommerce/myaccount/my-address.php:19
+#: ../woocommerce/myaccount/my-address.php:25
+#: ../woocommerce/order/order-details.php:115
+msgid "Billing Address"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:42
+msgid "Create an account?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:51
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:17
+msgid "Have a coupon?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:20
+msgid "Click here to enter your code"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:25
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:17
+msgid "Click here to login"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:22
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:20
+msgid "Qty"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:21
+msgid "Totals"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:78
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:87
+msgid "Pay for order"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:32
+msgid "Ship to billing address?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:35
+#: ../woocommerce/myaccount/form-edit-address.php:27
+#: ../woocommerce/myaccount/my-address.php:20
+#: ../woocommerce/order/order-details.php:130
+msgid "Shipping Address"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:59
+#: ../woocommerce/single-product/tabs/additional-information.php:14
+msgid "Additional Information"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:174
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:176
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:185
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:185
+msgid "Update totals"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:192
+msgid "Place order"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:199
+msgid "I have read and accept the"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:199
+msgid "terms &amp; conditions"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:28
+#: ../woocommerce/myaccount/my-orders.php:71
+msgid "Pay"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:36
+#: ../woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:40
+#: ../woocommerce/emails/customer-completed-order.php:18
+#: ../woocommerce/emails/customer-invoice.php:22
+#: ../woocommerce/emails/customer-note.php:22
+#: ../woocommerce/emails/customer-processing-order.php:18
+msgid "Order:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:53
+msgid "Payment method:"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:13
+#: ../woocommerce/emails/plain/admin-new-order.php:13
+#, php-format
+msgid "You have received an order from %s. Their order is as follows:"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:17
+#, php-format
+msgid "Order: %s"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:50
+#: ../woocommerce/emails/customer-completed-order.php:51
+#: ../woocommerce/emails/customer-note.php:55
+#: ../woocommerce/emails/customer-processing-order.php:51
+#: ../woocommerce/emails/plain/admin-new-order.php:38
+#: ../woocommerce/order/order-details.php:97
+msgid "Customer details"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:53
+#: ../woocommerce/emails/customer-completed-order.php:54
+#: ../woocommerce/emails/customer-note.php:58
+#: ../woocommerce/emails/customer-processing-order.php:54
+#: ../woocommerce/emails/plain/admin-new-order.php:41
+#: ../woocommerce/emails/plain/customer-completed-order.php:41
+#: ../woocommerce/emails/plain/customer-note.php:49
+#: ../woocommerce/emails/plain/customer-processing-order.php:41
+#: ../woocommerce/order/order-details.php:101
+msgid "Email:"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:56
+#: ../woocommerce/emails/customer-completed-order.php:57
+#: ../woocommerce/emails/customer-note.php:61
+#: ../woocommerce/emails/customer-processing-order.php:57
+#: ../woocommerce/emails/plain/admin-new-order.php:44
+#: ../woocommerce/emails/plain/customer-completed-order.php:44
+#: ../woocommerce/emails/plain/customer-note.php:52
+#: ../woocommerce/emails/plain/customer-processing-order.php:44
+msgid "Tel:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-completed-order.php:14
+#: ../woocommerce/emails/plain/customer-completed-order.php:13
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-invoice.php:16
+#: ../woocommerce/emails/plain/customer-invoice.php:14
+#, php-format
+msgid ""
+"An order has been created for you on %s. To pay for this order please use "
+"the following link: %s"
+msgstr ""
+
+#: ../woocommerce/emails/customer-invoice.php:16
+msgid "pay"
+msgstr ""
+
+#: ../woocommerce/emails/customer-new-account.php:14
+#: ../woocommerce/emails/plain/customer-new-account.php:13
+#, php-format
+msgid ""
+"Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+msgstr ""
+
+#: ../woocommerce/emails/customer-new-account.php:16
+#: ../woocommerce/emails/plain/customer-new-account.php:15
+#, php-format
+msgid "You can access your account area here: %s."
+msgstr ""
+
+#: ../woocommerce/emails/customer-note.php:14
+#: ../woocommerce/emails/plain/customer-note.php:13
+msgid "Hello, a note has just been added to your order:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-note.php:18
+#: ../woocommerce/emails/plain/customer-note.php:21
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: ../woocommerce/emails/customer-processing-order.php:14
+#: ../woocommerce/emails/plain/customer-processing-order.php:13
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:14
+#: ../woocommerce/emails/plain/customer-reset-password.php:13
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:15
+#: ../woocommerce/emails/plain/customer-reset-password.php:15
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:16
+#: ../woocommerce/emails/plain/customer-reset-password.php:16
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:17
+#: ../woocommerce/emails/plain/customer-reset-password.php:17
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:20
+msgid "Click here to reset your password"
+msgstr ""
+
+#: ../woocommerce/emails/email-addresses.php:18
+#: ../woocommerce/emails/plain/email-addresses.php:12
+msgid "Billing address"
+msgstr ""
+
+#: ../woocommerce/emails/email-addresses.php:28
+#: ../woocommerce/emails/plain/email-addresses.php:17
+msgid "Shipping address"
+msgstr ""
+
+#: ../woocommerce/emails/email-order-items.php:48
+#, php-format
+msgid "Download %d:"
+msgstr ""
+
+#: ../woocommerce/emails/email-order-items.php:50
+msgid "Download:"
+msgstr ""
+
+#: ../woocommerce/emails/plain/admin-new-order.php:19
+#: ../woocommerce/emails/plain/customer-completed-order.php:19
+#: ../woocommerce/emails/plain/customer-invoice.php:20
+#: ../woocommerce/emails/plain/customer-note.php:27
+#: ../woocommerce/emails/plain/customer-processing-order.php:19
+#, php-format
+msgid "Order number: %s"
+msgstr ""
+
+#: ../woocommerce/emails/plain/admin-new-order.php:20
+#: ../woocommerce/emails/plain/customer-completed-order.php:20
+#: ../woocommerce/emails/plain/customer-invoice.php:21
+#: ../woocommerce/emails/plain/customer-note.php:28
+#: ../woocommerce/emails/plain/customer-processing-order.php:20
+#, php-format
+msgid "Order date: %s"
+msgstr ""
+
+#: ../woocommerce/emails/plain/admin-new-order.php:20
+msgid "jS F Y"
+msgstr ""
+
+#: ../woocommerce/emails/plain/customer-completed-order.php:38
+#: ../woocommerce/emails/plain/customer-note.php:46
+#: ../woocommerce/emails/plain/customer-processing-order.php:38
+msgid "Your details"
+msgstr ""
+
+#: ../woocommerce/emails/plain/email-order-items.php:28
+#, php-format
+msgid "Quantity: %s"
+msgstr ""
+
+#: ../woocommerce/emails/plain/email-order-items.php:31
+#, php-format
+msgid "Cost: %s"
+msgstr ""
+
+#: ../woocommerce/loop/add-to-cart.php:33
+msgid "Select options"
+msgstr ""
+
+#: ../woocommerce/loop/add-to-cart.php:37
+msgid "View options"
+msgstr ""
+
+#: ../woocommerce/loop/add-to-cart.php:46
+#: ../woocommerce/single-product/add-to-cart/grouped.php:45
+#: ../woocommerce/single-product/add-to-cart/grouped.php:77
+#: ../woocommerce/single-product/add-to-cart/simple.php:42
+#: ../woocommerce/single-product/add-to-cart/variable.php:83
+msgid "Add to cart"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:21
+msgid "Default sorting"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:22
+msgid "Sort by popularity"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:23
+msgid "Sort by average rating"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:24
+msgid "Sort by newness"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:25
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:26
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:32
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d–%2$d of %3$d results"
+msgstr ""
+
+#: ../woocommerce/loop/sale-flash.php:16
+#: ../woocommerce/single-product/sale-flash.php:16
+msgid "Sale!"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-change-password.php:20
+#: ../woocommerce/myaccount/form-lost-password.php:31
+msgid "New password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-change-password.php:24
+#: ../woocommerce/myaccount/form-lost-password.php:35
+msgid "Re-enter new password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-change-password.php:29
+#: ../woocommerce/myaccount/form-lost-password.php:45
+msgid "Save"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:43
+msgid "Save Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:26
+#: ../woocommerce/myaccount/form-login.php:40
+#: ../woocommerce/shop/form-login.php:31
+msgid "Login"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:29
+#: ../woocommerce/myaccount/form-lost-password.php:24
+#: ../woocommerce/shop/form-login.php:20
+msgid "Username or email"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:33
+#: ../woocommerce/myaccount/form-login.php:85
+#: ../woocommerce/shop/form-login.php:24
+msgid "Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:50
+#: ../woocommerce/shop/form-login.php:33
+msgid "Lost Password?"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:60
+#: ../woocommerce/myaccount/form-login.php:101
+msgid "Register"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:66
+msgid "Username"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:89
+msgid "Re-enter password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:22
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:45
+msgid "Reset Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid ""
+"Hello, <strong>%s</strong>. From your account dashboard you can view your "
+"recent orders, manage your shipping and billing addresses and <a href=\"%s"
+"\">change your password</a>."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:45
+msgid "Edit"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-downloads.php:18
+msgid "Available downloads"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-downloads.php:27
+#, php-format
+msgid "%s download remaining"
+msgid_plural "%s downloads remaining"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:33
+msgid "Date"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:62
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/myaccount/my-orders.php:77
+msgid "Cancel"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:82
+msgid "View"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:17
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"return. This was given to you on your receipt and in the confirmation email "
+"you should have received."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:19
+msgid "Order ID"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:19
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:20
+msgid "Billing Email"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:20
+msgid "Email you used during checkout."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:23
+msgid "Track"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:16
+msgid "Order Details"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:64
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:90
+msgid "Order Again"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:102
+msgid "Telephone:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:119
+#: ../woocommerce/order/order-details.php:134
+msgid "N/A"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:18
+#, php-format
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:18
+msgid "ago"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:20
+msgid "and was completed"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:20
+msgid " ago"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:31
+msgid "Order Updates"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:63
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:91
+#: ../woocommerce/shop/breadcrumb.php:189
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:147
+msgid "Error 404"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:193
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:198
+msgid "Author:"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:203
+msgid "Page"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:19
+msgid "SKU:"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:24
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/meta.php:29
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr ""
+
+#: ../woocommerce/single-product/product-attributes.php:37
+msgid "Dimensions"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:31
+msgid "verified owner"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:45
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:46
+msgid "out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:50
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:24
+msgid "Choose an option"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:69
+msgid "Clear selection"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
