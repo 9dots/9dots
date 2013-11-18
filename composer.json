@@ -4,7 +4,8 @@
     },
     "extra": {
         "heroku": {
-            "nginx-includes": ["etc/nginx.conf"]
+            "nginx-includes": ["etc/nginx.conf"],
+            "framework": "symphony2"
         }
     }
 }
