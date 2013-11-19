@@ -2561,7 +2561,7 @@ function wave_shortcode_team_carousel($attr) {
 		$person_attr = array(
 			'name'        => get_the_title($post->ID),
 			'title'       => get_post_meta($post->ID, 'teammember_title', true),
-			'image'       => get_the_post_thumbnail($post->ID, "medium"),
+			'image'       => get_the_post_thumbnail($post->ID, 'medium'),
 			'facebook'    => get_post_meta($post->ID, 'teammember_socialmedia_facebook', true),
 			'twitter'     => get_post_meta($post->ID, 'teammember_socialmedia_twitter', true),
 			'google_plus' => get_post_meta($post->ID, 'teammember_socialmedia_googleplus', true),
@@ -2664,7 +2664,7 @@ function wave_shortcode_portfolio($attr, $content = null) {
 			$html .= '</div>';
 			$html .= '</div>';
 			$html .= '<div class="thumb">';
-			$html .= '<img width="260" height="260" src="' . get_the_post_thumbnail((get_the_ID(), "medium") . '" alt="" />';
+			$html .= '<img width="260" height="260" src="' . get_the_post_thumbnail(get_the_ID(), 'medium') . '" alt="" />';
 			$html .= '</div>';
 			$html .= '</li>';
 
