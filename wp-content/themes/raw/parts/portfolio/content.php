@@ -16,7 +16,7 @@ $project_url = get_post_meta(get_the_ID(), "wave_project_url", true);
 		<div class="portfolio-slideshow flexslider">
 			<ul class="slides">
 				<?php foreach ($project_images as $attachment_id): ?>
-					<li><img src="<?php echo wave_get_thumb_url($attachment_id, 814, 400); ?>" width="814"
+					<li><img src="<?php echo wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), 'full')[0]; ?>" width="814"
 					         height="400"/></li>
 				<?php endforeach; ?>
 			</ul>
