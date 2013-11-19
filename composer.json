@@ -1,0 +1,7 @@
+{
+    "extra": {
+        "heroku": {
+            "nginx-includes": ["config/site.conf"]
+        }
+    }
+}
